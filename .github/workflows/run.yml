@@ -2,8 +2,12 @@ name: 自動更新台股真營收數據
 
 on:
   schedule:
-    - cron: '0 8 * * *' # 💡 每天台灣時間下午 4 點自動執行 (16:00)
-  workflow_dispatch: # 💡 允許我們隨時手動點擊按鈕更新
+    - cron: '0 8 * * *' # 每天台灣時間下午 4 點自動執行 (16:00)
+  workflow_dispatch: # 允許隨時手動點擊按鈕更新
+
+# 🎯 關鍵修正：強制宣告這個工作流（Workflow）擁有對倉庫的寫入（Write）權限
+permissions:
+  contents: write
 
 jobs:
   update-data:
@@ -21,6 +25,9 @@ jobs:
       run: python fetch_data.py
 
     - name: 自動推播回倉庫
+      # 💡 這裡加上了 GITHUB_TOKEN，讓 Git 有密鑰能合法把 revenue_data.json 塞回你的 GitHub 倉庫
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
