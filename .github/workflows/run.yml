@@ -1,0 +1,29 @@
+name: 自動更新台股真營收數據
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # 💡 每天台灣時間下午 4 點自動執行 (16:00)
+  workflow_dispatch: # 💡 允許我們隨時手動點擊按鈕更新
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+    - name: 複製倉庫程式碼
+      uses: actions/checkout@v3
+
+    - name: 設定 Python 環境
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: 執行抓取腳本
+      run: python fetch_data.py
+
+    - name: 自動推播回倉庫
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add revenue_data.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "🔄 自動更新最新真實營收數據"
+        git push
