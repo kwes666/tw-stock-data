@@ -1,0 +1,7324 @@
+[
+    {
+        "stock_id": "1101",
+        "stock_name": "台泥",
+        "revenue": 114.0,
+        "mom": 24.45,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1102",
+        "stock_name": "亞泥",
+        "revenue": 114.0,
+        "mom": 34.35,
+        "yoy": 11.53
+    },
+    {
+        "stock_id": "1103",
+        "stock_name": "嘉泥",
+        "revenue": 114.0,
+        "mom": 13.65,
+        "yoy": 17.06
+    },
+    {
+        "stock_id": "1104",
+        "stock_name": "環泥",
+        "revenue": 114.0,
+        "mom": 29.25,
+        "yoy": 11.43
+    },
+    {
+        "stock_id": "1108",
+        "stock_name": "幸福",
+        "revenue": 114.0,
+        "mom": 14.1,
+        "yoy": 6.98
+    },
+    {
+        "stock_id": "1109",
+        "stock_name": "信大",
+        "revenue": 114.0,
+        "mom": 14.9,
+        "yoy": 18.86
+    },
+    {
+        "stock_id": "1110",
+        "stock_name": "東泥",
+        "revenue": 114.0,
+        "mom": 16.0,
+        "yoy": 50.0
+    },
+    {
+        "stock_id": "1201",
+        "stock_name": "味全",
+        "revenue": 114.0,
+        "mom": 12.55,
+        "yoy": 33.03
+    },
+    {
+        "stock_id": "1203",
+        "stock_name": "味王",
+        "revenue": 114.0,
+        "mom": 43.1,
+        "yoy": 25.06
+    },
+    {
+        "stock_id": "1210",
+        "stock_name": "大成",
+        "revenue": 114.0,
+        "mom": 54.2,
+        "yoy": 12.84
+    },
+    {
+        "stock_id": "1213",
+        "stock_name": "大飲",
+        "revenue": 113.0,
+        "mom": 0.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1215",
+        "stock_name": "卜蜂",
+        "revenue": 114.0,
+        "mom": 116.0,
+        "yoy": 12.5
+    },
+    {
+        "stock_id": "1216",
+        "stock_name": "統一",
+        "revenue": 114.0,
+        "mom": 73.6,
+        "yoy": 19.89
+    },
+    {
+        "stock_id": "1217",
+        "stock_name": "愛之味",
+        "revenue": 114.0,
+        "mom": 10.0,
+        "yoy": 20.83
+    },
+    {
+        "stock_id": "1218",
+        "stock_name": "泰山",
+        "revenue": 114.0,
+        "mom": 19.5,
+        "yoy": 12.66
+    },
+    {
+        "stock_id": "1219",
+        "stock_name": "福壽",
+        "revenue": 114.0,
+        "mom": 13.0,
+        "yoy": 27.66
+    },
+    {
+        "stock_id": "1220",
+        "stock_name": "台榮",
+        "revenue": 114.0,
+        "mom": 11.95,
+        "yoy": 597.5
+    },
+    {
+        "stock_id": "1225",
+        "stock_name": "福懋油",
+        "revenue": 114.0,
+        "mom": 29.7,
+        "yoy": 17.37
+    },
+    {
+        "stock_id": "1227",
+        "stock_name": "佳格",
+        "revenue": 114.0,
+        "mom": 28.45,
+        "yoy": 19.49
+    },
+    {
+        "stock_id": "1229",
+        "stock_name": "聯華",
+        "revenue": 114.0,
+        "mom": 43.0,
+        "yoy": 16.54
+    },
+    {
+        "stock_id": "1231",
+        "stock_name": "聯華食",
+        "revenue": 114.0,
+        "mom": 86.9,
+        "yoy": 19.75
+    },
+    {
+        "stock_id": "1232",
+        "stock_name": "大統益",
+        "revenue": 114.0,
+        "mom": 149.0,
+        "yoy": 17.23
+    },
+    {
+        "stock_id": "1233",
+        "stock_name": "天仁",
+        "revenue": 114.0,
+        "mom": 27.8,
+        "yoy": 33.9
+    },
+    {
+        "stock_id": "1234",
+        "stock_name": "黑松",
+        "revenue": 114.0,
+        "mom": 35.15,
+        "yoy": 21.05
+    },
+    {
+        "stock_id": "1235",
+        "stock_name": "興泰",
+        "revenue": 114.0,
+        "mom": 39.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1236",
+        "stock_name": "宏亞",
+        "revenue": 114.0,
+        "mom": 25.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1256",
+        "stock_name": "鮮活果汁-KY",
+        "revenue": 114.0,
+        "mom": 200.0,
+        "yoy": 15.11
+    },
+    {
+        "stock_id": "1301",
+        "stock_name": "台塑",
+        "revenue": 114.0,
+        "mom": 50.8,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1303",
+        "stock_name": "南亞",
+        "revenue": 114.0,
+        "mom": 111.0,
+        "yoy": 48.05
+    },
+    {
+        "stock_id": "1304",
+        "stock_name": "台聚",
+        "revenue": 114.0,
+        "mom": 13.7,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1305",
+        "stock_name": "華夏",
+        "revenue": 114.0,
+        "mom": 13.55,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1307",
+        "stock_name": "三芳",
+        "revenue": 114.0,
+        "mom": 34.45,
+        "yoy": 12.57
+    },
+    {
+        "stock_id": "1308",
+        "stock_name": "亞聚",
+        "revenue": 114.0,
+        "mom": 14.05,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1309",
+        "stock_name": "台達化",
+        "revenue": 114.0,
+        "mom": 16.95,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1310",
+        "stock_name": "台苯",
+        "revenue": 114.0,
+        "mom": 9.18,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1312",
+        "stock_name": "國喬",
+        "revenue": 113.0,
+        "mom": 14.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1313",
+        "stock_name": "聯成",
+        "revenue": 114.0,
+        "mom": 11.4,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1314",
+        "stock_name": "中石化",
+        "revenue": 114.0,
+        "mom": 8.25,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1315",
+        "stock_name": "達新",
+        "revenue": 114.0,
+        "mom": 61.8,
+        "yoy": 40.13
+    },
+    {
+        "stock_id": "1316",
+        "stock_name": "上曜",
+        "revenue": 113.0,
+        "mom": 10.65,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1319",
+        "stock_name": "東陽",
+        "revenue": 114.0,
+        "mom": 96.5,
+        "yoy": 17.32
+    },
+    {
+        "stock_id": "1321",
+        "stock_name": "大洋",
+        "revenue": 113.0,
+        "mom": 28.95,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1323",
+        "stock_name": "永裕",
+        "revenue": 114.0,
+        "mom": 20.45,
+        "yoy": 36.52
+    },
+    {
+        "stock_id": "1324",
+        "stock_name": "地球",
+        "revenue": 113.0,
+        "mom": 10.7,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1325",
+        "stock_name": "恆大",
+        "revenue": 113.0,
+        "mom": 27.35,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1326",
+        "stock_name": "台化",
+        "revenue": 114.0,
+        "mom": 55.2,
+        "yoy": 368.0
+    },
+    {
+        "stock_id": "1337",
+        "stock_name": "再生-KY",
+        "revenue": 113.0,
+        "mom": 5.13,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1338",
+        "stock_name": "廣華-KY",
+        "revenue": 114.0,
+        "mom": 17.1,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1339",
+        "stock_name": "昭輝",
+        "revenue": 114.0,
+        "mom": 43.8,
+        "yoy": 10.35
+    },
+    {
+        "stock_id": "1340",
+        "stock_name": "勝悅-KY",
+        "revenue": 113.0,
+        "mom": 5.93,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1341",
+        "stock_name": "富林-KY",
+        "revenue": 114.0,
+        "mom": 63.5,
+        "yoy": 15.56
+    },
+    {
+        "stock_id": "1342",
+        "stock_name": "八貫",
+        "revenue": 114.0,
+        "mom": 100.5,
+        "yoy": 16.89
+    },
+    {
+        "stock_id": "1402",
+        "stock_name": "遠東新",
+        "revenue": 114.0,
+        "mom": 27.55,
+        "yoy": 17.11
+    },
+    {
+        "stock_id": "1409",
+        "stock_name": "新纖",
+        "revenue": 114.0,
+        "mom": 27.3,
+        "yoy": 20.22
+    },
+    {
+        "stock_id": "1410",
+        "stock_name": "南染",
+        "revenue": 114.0,
+        "mom": 26.7,
+        "yoy": 49.44
+    },
+    {
+        "stock_id": "1413",
+        "stock_name": "宏洲",
+        "revenue": 114.0,
+        "mom": 9.68,
+        "yoy": 23.05
+    },
+    {
+        "stock_id": "1414",
+        "stock_name": "東和",
+        "revenue": 114.0,
+        "mom": 16.1,
+        "yoy": 55.52
+    },
+    {
+        "stock_id": "1416",
+        "stock_name": "廣豐",
+        "revenue": 114.0,
+        "mom": 11.8,
+        "yoy": 13.72
+    },
+    {
+        "stock_id": "1417",
+        "stock_name": "嘉裕",
+        "revenue": 114.0,
+        "mom": 8.44,
+        "yoy": 18.76
+    },
+    {
+        "stock_id": "1418",
+        "stock_name": "東華",
+        "revenue": 113.0,
+        "mom": 18.8,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1419",
+        "stock_name": "新紡",
+        "revenue": 114.0,
+        "mom": 66.6,
+        "yoy": 5.06
+    },
+    {
+        "stock_id": "1423",
+        "stock_name": "利華",
+        "revenue": 114.0,
+        "mom": 43.75,
+        "yoy": 11.6
+    },
+    {
+        "stock_id": "1432",
+        "stock_name": "大魯閣",
+        "revenue": 114.0,
+        "mom": 17.1,
+        "yoy": 3.14
+    },
+    {
+        "stock_id": "1434",
+        "stock_name": "福懋",
+        "revenue": 114.0,
+        "mom": 16.9,
+        "yoy": 28.17
+    },
+    {
+        "stock_id": "1436",
+        "stock_name": "華友聯",
+        "revenue": 114.0,
+        "mom": 46.4,
+        "yoy": 10.79
+    },
+    {
+        "stock_id": "1437",
+        "stock_name": "勤益控",
+        "revenue": 114.0,
+        "mom": 29.25,
+        "yoy": 10.56
+    },
+    {
+        "stock_id": "1438",
+        "stock_name": "三地開發",
+        "revenue": 114.0,
+        "mom": 20.3,
+        "yoy": 7.36
+    },
+    {
+        "stock_id": "1439",
+        "stock_name": "雋揚",
+        "revenue": 114.0,
+        "mom": 25.7,
+        "yoy": 8.34
+    },
+    {
+        "stock_id": "1440",
+        "stock_name": "南紡",
+        "revenue": 114.0,
+        "mom": 14.65,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1441",
+        "stock_name": "大東",
+        "revenue": 113.0,
+        "mom": 9.6,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1442",
+        "stock_name": "名軒",
+        "revenue": 114.0,
+        "mom": 27.75,
+        "yoy": 14.16
+    },
+    {
+        "stock_id": "1443",
+        "stock_name": "立益物流",
+        "revenue": 113.0,
+        "mom": 26.4,
+        "yoy": 24.0
+    },
+    {
+        "stock_id": "1444",
+        "stock_name": "力麗",
+        "revenue": 113.0,
+        "mom": 7.16,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1445",
+        "stock_name": "大宇",
+        "revenue": 114.0,
+        "mom": 11.6,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1446",
+        "stock_name": "宏和",
+        "revenue": 114.0,
+        "mom": 16.75,
+        "yoy": 9.85
+    },
+    {
+        "stock_id": "1447",
+        "stock_name": "力鵬",
+        "revenue": 113.0,
+        "mom": 6.58,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1449",
+        "stock_name": "佳和",
+        "revenue": 114.0,
+        "mom": 13.6,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1451",
+        "stock_name": "年興",
+        "revenue": 114.0,
+        "mom": 16.8,
+        "yoy": 18.88
+    },
+    {
+        "stock_id": "1452",
+        "stock_name": "宏益",
+        "revenue": 114.0,
+        "mom": 10.95,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1453",
+        "stock_name": "大將",
+        "revenue": 114.0,
+        "mom": 11.5,
+        "yoy": 104.55
+    },
+    {
+        "stock_id": "1454",
+        "stock_name": "台富",
+        "revenue": 114.0,
+        "mom": 12.95,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1455",
+        "stock_name": "集盛",
+        "revenue": 114.0,
+        "mom": 9.33,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1456",
+        "stock_name": "怡華",
+        "revenue": 113.0,
+        "mom": 13.85,
+        "yoy": 4.01
+    },
+    {
+        "stock_id": "1457",
+        "stock_name": "宜進",
+        "revenue": 114.0,
+        "mom": 15.55,
+        "yoy": 17.09
+    },
+    {
+        "stock_id": "1459",
+        "stock_name": "聯發",
+        "revenue": 114.0,
+        "mom": 11.8,
+        "yoy": 7.61
+    },
+    {
+        "stock_id": "1460",
+        "stock_name": "宏遠",
+        "revenue": 114.0,
+        "mom": 7.53,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1463",
+        "stock_name": "強盛新",
+        "revenue": 114.0,
+        "mom": 17.9,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1464",
+        "stock_name": "得力",
+        "revenue": 114.0,
+        "mom": 10.7,
+        "yoy": 28.92
+    },
+    {
+        "stock_id": "1465",
+        "stock_name": "偉全",
+        "revenue": 114.0,
+        "mom": 12.35,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1466",
+        "stock_name": "聚隆",
+        "revenue": 114.0,
+        "mom": 14.4,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1467",
+        "stock_name": "南緯",
+        "revenue": 113.0,
+        "mom": 7.71,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1468",
+        "stock_name": "昶和",
+        "revenue": 113.0,
+        "mom": 12.15,
+        "yoy": 101.25
+    },
+    {
+        "stock_id": "1470",
+        "stock_name": "大統新創",
+        "revenue": 114.0,
+        "mom": 22.2,
+        "yoy": 25.52
+    },
+    {
+        "stock_id": "1471",
+        "stock_name": "首利",
+        "revenue": 113.0,
+        "mom": 11.8,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1472",
+        "stock_name": "三洋實業",
+        "revenue": 114.0,
+        "mom": 91.0,
+        "yoy": 14.15
+    },
+    {
+        "stock_id": "1473",
+        "stock_name": "台南",
+        "revenue": 114.0,
+        "mom": 21.6,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1474",
+        "stock_name": "弘裕",
+        "revenue": 114.0,
+        "mom": 10.4,
+        "yoy": 43.33
+    },
+    {
+        "stock_id": "1475",
+        "stock_name": "業旺",
+        "revenue": 114.0,
+        "mom": 26.05,
+        "yoy": 10.22
+    },
+    {
+        "stock_id": "1476",
+        "stock_name": "儒鴻",
+        "revenue": 114.0,
+        "mom": 363.5,
+        "yoy": 17.59
+    },
+    {
+        "stock_id": "1477",
+        "stock_name": "聚陽",
+        "revenue": 114.0,
+        "mom": 230.0,
+        "yoy": 16.61
+    },
+    {
+        "stock_id": "1503",
+        "stock_name": "士電",
+        "revenue": 114.0,
+        "mom": 268.0,
+        "yoy": 39.94
+    },
+    {
+        "stock_id": "1504",
+        "stock_name": "東元",
+        "revenue": 114.0,
+        "mom": 87.0,
+        "yoy": 38.67
+    },
+    {
+        "stock_id": "1506",
+        "stock_name": "正道",
+        "revenue": 113.0,
+        "mom": 10.3,
+        "yoy": 147.14
+    },
+    {
+        "stock_id": "1512",
+        "stock_name": "瑞利",
+        "revenue": 113.0,
+        "mom": 7.29,
+        "yoy": 27.0
+    },
+    {
+        "stock_id": "1513",
+        "stock_name": "中興電",
+        "revenue": 114.0,
+        "mom": 187.0,
+        "yoy": 22.72
+    },
+    {
+        "stock_id": "1514",
+        "stock_name": "亞力",
+        "revenue": 114.0,
+        "mom": 149.5,
+        "yoy": 43.59
+    },
+    {
+        "stock_id": "1515",
+        "stock_name": "力山",
+        "revenue": 114.0,
+        "mom": 25.3,
+        "yoy": 25.82
+    },
+    {
+        "stock_id": "1517",
+        "stock_name": "利奇",
+        "revenue": 114.0,
+        "mom": 10.8,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1519",
+        "stock_name": "華城",
+        "revenue": 114.0,
+        "mom": 910.0,
+        "yoy": 62.54
+    },
+    {
+        "stock_id": "1521",
+        "stock_name": "大億",
+        "revenue": 114.0,
+        "mom": 27.5,
+        "yoy": 38.73
+    },
+    {
+        "stock_id": "1522",
+        "stock_name": "堤維西",
+        "revenue": 114.0,
+        "mom": 32.8,
+        "yoy": 105.81
+    },
+    {
+        "stock_id": "1524",
+        "stock_name": "耿鼎",
+        "revenue": 114.0,
+        "mom": 32.75,
+        "yoy": 21.83
+    },
+    {
+        "stock_id": "1525",
+        "stock_name": "江申",
+        "revenue": 114.0,
+        "mom": 65.9,
+        "yoy": 41.19
+    },
+    {
+        "stock_id": "1526",
+        "stock_name": "日馳",
+        "revenue": 113.0,
+        "mom": 15.4,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1527",
+        "stock_name": "鑽全",
+        "revenue": 114.0,
+        "mom": 33.6,
+        "yoy": 36.92
+    },
+    {
+        "stock_id": "1528",
+        "stock_name": "恩德",
+        "revenue": 114.0,
+        "mom": 29.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1529",
+        "stock_name": "樂事綠能",
+        "revenue": 114.0,
+        "mom": 24.2,
+        "yoy": 21.23
+    },
+    {
+        "stock_id": "1530",
+        "stock_name": "亞崴",
+        "revenue": 114.0,
+        "mom": 33.2,
+        "yoy": 28.87
+    },
+    {
+        "stock_id": "1531",
+        "stock_name": "高林股",
+        "revenue": 114.0,
+        "mom": 12.95,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1532",
+        "stock_name": "勤美",
+        "revenue": 114.0,
+        "mom": 22.2,
+        "yoy": 18.97
+    },
+    {
+        "stock_id": "1533",
+        "stock_name": "車王電",
+        "revenue": 113.0,
+        "mom": 38.3,
+        "yoy": 23.5
+    },
+    {
+        "stock_id": "1535",
+        "stock_name": "中宇",
+        "revenue": 114.0,
+        "mom": 52.4,
+        "yoy": 13.47
+    },
+    {
+        "stock_id": "1536",
+        "stock_name": "和大",
+        "revenue": 113.0,
+        "mom": 51.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1537",
+        "stock_name": "廣隆",
+        "revenue": 114.0,
+        "mom": 128.5,
+        "yoy": 16.91
+    },
+    {
+        "stock_id": "1538",
+        "stock_name": "正峰",
+        "revenue": 113.0,
+        "mom": 11.7,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1539",
+        "stock_name": "巨庭",
+        "revenue": 113.0,
+        "mom": 16.55,
+        "yoy": 413.75
+    },
+    {
+        "stock_id": "1540",
+        "stock_name": "喬福",
+        "revenue": 114.0,
+        "mom": 23.05,
+        "yoy": 24.78
+    },
+    {
+        "stock_id": "1541",
+        "stock_name": "錩泰",
+        "revenue": 113.0,
+        "mom": 22.2,
+        "yoy": 9.78
+    },
+    {
+        "stock_id": "1558",
+        "stock_name": "伸興",
+        "revenue": 114.0,
+        "mom": 91.9,
+        "yoy": 16.35
+    },
+    {
+        "stock_id": "1560",
+        "stock_name": "中砂",
+        "revenue": 114.0,
+        "mom": 716.0,
+        "yoy": 70.61
+    },
+    {
+        "stock_id": "1563",
+        "stock_name": "巧新",
+        "revenue": 114.0,
+        "mom": 66.3,
+        "yoy": 150.68
+    },
+    {
+        "stock_id": "1568",
+        "stock_name": "倉佑",
+        "revenue": 114.0,
+        "mom": 45.05,
+        "yoy": 33.62
+    },
+    {
+        "stock_id": "1582",
+        "stock_name": "信錦",
+        "revenue": 114.0,
+        "mom": 107.5,
+        "yoy": 39.09
+    },
+    {
+        "stock_id": "1583",
+        "stock_name": "程泰",
+        "revenue": 114.0,
+        "mom": 54.2,
+        "yoy": 19.43
+    },
+    {
+        "stock_id": "1587",
+        "stock_name": "吉茂",
+        "revenue": 113.0,
+        "mom": 30.05,
+        "yoy": 73.29
+    },
+    {
+        "stock_id": "1597",
+        "stock_name": "直得",
+        "revenue": 114.0,
+        "mom": 172.5,
+        "yoy": 144.96
+    },
+    {
+        "stock_id": "1598",
+        "stock_name": "岱宇",
+        "revenue": 113.0,
+        "mom": 20.85,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1603",
+        "stock_name": "華電",
+        "revenue": 114.0,
+        "mom": 33.75,
+        "yoy": 12.55
+    },
+    {
+        "stock_id": "1604",
+        "stock_name": "聲寶",
+        "revenue": 114.0,
+        "mom": 23.7,
+        "yoy": 14.36
+    },
+    {
+        "stock_id": "1605",
+        "stock_name": "華新",
+        "revenue": 114.0,
+        "mom": 41.6,
+        "yoy": 30.36
+    },
+    {
+        "stock_id": "1608",
+        "stock_name": "華榮",
+        "revenue": 114.0,
+        "mom": 38.8,
+        "yoy": 7.04
+    },
+    {
+        "stock_id": "1609",
+        "stock_name": "大亞",
+        "revenue": 114.0,
+        "mom": 43.0,
+        "yoy": 17.99
+    },
+    {
+        "stock_id": "1611",
+        "stock_name": "中電",
+        "revenue": 114.0,
+        "mom": 15.0,
+        "yoy": 375.0
+    },
+    {
+        "stock_id": "1612",
+        "stock_name": "宏泰",
+        "revenue": 114.0,
+        "mom": 40.65,
+        "yoy": 13.55
+    },
+    {
+        "stock_id": "1614",
+        "stock_name": "三洋電",
+        "revenue": 114.0,
+        "mom": 33.4,
+        "yoy": 25.3
+    },
+    {
+        "stock_id": "1615",
+        "stock_name": "大山",
+        "revenue": 114.0,
+        "mom": 46.55,
+        "yoy": 9.82
+    },
+    {
+        "stock_id": "1616",
+        "stock_name": "億泰",
+        "revenue": 114.0,
+        "mom": 24.95,
+        "yoy": 20.28
+    },
+    {
+        "stock_id": "1617",
+        "stock_name": "榮星",
+        "revenue": 114.0,
+        "mom": 16.7,
+        "yoy": 18.98
+    },
+    {
+        "stock_id": "1618",
+        "stock_name": "合機",
+        "revenue": 114.0,
+        "mom": 44.25,
+        "yoy": 9.73
+    },
+    {
+        "stock_id": "1623",
+        "stock_name": "大東電",
+        "revenue": 114.0,
+        "mom": 238.5,
+        "yoy": 19.26
+    },
+    {
+        "stock_id": "1626",
+        "stock_name": "艾美特-KY",
+        "revenue": 113.0,
+        "mom": 10.05,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1702",
+        "stock_name": "南僑",
+        "revenue": 114.0,
+        "mom": 31.25,
+        "yoy": 43.4
+    },
+    {
+        "stock_id": "1707",
+        "stock_name": "葡萄王",
+        "revenue": 114.0,
+        "mom": 102.0,
+        "yoy": 12.75
+    },
+    {
+        "stock_id": "1708",
+        "stock_name": "東鹼",
+        "revenue": 114.0,
+        "mom": 47.65,
+        "yoy": 14.14
+    },
+    {
+        "stock_id": "1709",
+        "stock_name": "和益",
+        "revenue": 114.0,
+        "mom": 20.7,
+        "yoy": 14.89
+    },
+    {
+        "stock_id": "1710",
+        "stock_name": "東聯",
+        "revenue": 114.0,
+        "mom": 15.4,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1711",
+        "stock_name": "永光",
+        "revenue": 113.0,
+        "mom": 48.05,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1712",
+        "stock_name": "興農",
+        "revenue": 114.0,
+        "mom": 39.55,
+        "yoy": 15.95
+    },
+    {
+        "stock_id": "1713",
+        "stock_name": "國化",
+        "revenue": 114.0,
+        "mom": 49.8,
+        "yoy": 11.12
+    },
+    {
+        "stock_id": "1714",
+        "stock_name": "和桐",
+        "revenue": 114.0,
+        "mom": 12.1,
+        "yoy": 18.91
+    },
+    {
+        "stock_id": "1717",
+        "stock_name": "長興",
+        "revenue": 114.0,
+        "mom": 76.4,
+        "yoy": 51.62
+    },
+    {
+        "stock_id": "1718",
+        "stock_name": "中纖",
+        "revenue": 113.0,
+        "mom": 9.68,
+        "yoy": 40.33
+    },
+    {
+        "stock_id": "1720",
+        "stock_name": "生達",
+        "revenue": 114.0,
+        "mom": 63.0,
+        "yoy": 11.67
+    },
+    {
+        "stock_id": "1721",
+        "stock_name": "三晃",
+        "revenue": 113.0,
+        "mom": 27.65,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1722",
+        "stock_name": "台肥",
+        "revenue": 114.0,
+        "mom": 48.05,
+        "yoy": 46.2
+    },
+    {
+        "stock_id": "1723",
+        "stock_name": "中碳",
+        "revenue": 114.0,
+        "mom": 86.5,
+        "yoy": 34.88
+    },
+    {
+        "stock_id": "1725",
+        "stock_name": "元禎",
+        "revenue": 114.0,
+        "mom": 33.2,
+        "yoy": 20.49
+    },
+    {
+        "stock_id": "1726",
+        "stock_name": "永記",
+        "revenue": 114.0,
+        "mom": 79.2,
+        "yoy": 13.36
+    },
+    {
+        "stock_id": "1727",
+        "stock_name": "中華化",
+        "revenue": 114.0,
+        "mom": 91.0,
+        "yoy": 245.95
+    },
+    {
+        "stock_id": "1730",
+        "stock_name": "花仙子",
+        "revenue": 114.0,
+        "mom": 53.2,
+        "yoy": 11.49
+    },
+    {
+        "stock_id": "1731",
+        "stock_name": "美吾華",
+        "revenue": 114.0,
+        "mom": 21.7,
+        "yoy": 15.5
+    },
+    {
+        "stock_id": "1732",
+        "stock_name": "毛寶",
+        "revenue": 114.0,
+        "mom": 26.9,
+        "yoy": 29.89
+    },
+    {
+        "stock_id": "1733",
+        "stock_name": "五鼎",
+        "revenue": 114.0,
+        "mom": 30.8,
+        "yoy": 16.92
+    },
+    {
+        "stock_id": "1734",
+        "stock_name": "杏輝",
+        "revenue": 114.0,
+        "mom": 31.35,
+        "yoy": 18.23
+    },
+    {
+        "stock_id": "1735",
+        "stock_name": "日勝化",
+        "revenue": 114.0,
+        "mom": 25.95,
+        "yoy": 32.04
+    },
+    {
+        "stock_id": "1736",
+        "stock_name": "喬山",
+        "revenue": 114.0,
+        "mom": 111.5,
+        "yoy": 13.55
+    },
+    {
+        "stock_id": "1737",
+        "stock_name": "臺鹽",
+        "revenue": 114.0,
+        "mom": 31.7,
+        "yoy": 15.93
+    },
+    {
+        "stock_id": "1752",
+        "stock_name": "南光",
+        "revenue": 114.0,
+        "mom": 33.55,
+        "yoy": 16.53
+    },
+    {
+        "stock_id": "1760",
+        "stock_name": "寶齡富錦",
+        "revenue": 114.0,
+        "mom": 61.2,
+        "yoy": 24.58
+    },
+    {
+        "stock_id": "1762",
+        "stock_name": "中化生",
+        "revenue": 113.0,
+        "mom": 40.7,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1773",
+        "stock_name": "勝一",
+        "revenue": 114.0,
+        "mom": 178.5,
+        "yoy": 24.62
+    },
+    {
+        "stock_id": "1776",
+        "stock_name": "展宇",
+        "revenue": 114.0,
+        "mom": 18.8,
+        "yoy": 38.37
+    },
+    {
+        "stock_id": "1783",
+        "stock_name": "和康生",
+        "revenue": 114.0,
+        "mom": 39.8,
+        "yoy": 13.18
+    },
+    {
+        "stock_id": "1786",
+        "stock_name": "科妍",
+        "revenue": 114.0,
+        "mom": 54.9,
+        "yoy": 32.29
+    },
+    {
+        "stock_id": "1789",
+        "stock_name": "神隆",
+        "revenue": 114.0,
+        "mom": 20.4,
+        "yoy": 145.71
+    },
+    {
+        "stock_id": "1795",
+        "stock_name": "美時",
+        "revenue": 114.0,
+        "mom": 201.0,
+        "yoy": 13.71
+    },
+    {
+        "stock_id": "1802",
+        "stock_name": "台玻",
+        "revenue": 113.0,
+        "mom": 68.9,
+        "yoy": 530.0
+    },
+    {
+        "stock_id": "1805",
+        "stock_name": "寶徠",
+        "revenue": 113.0,
+        "mom": 12.1,
+        "yoy": 93.08
+    },
+    {
+        "stock_id": "1806",
+        "stock_name": "冠軍",
+        "revenue": 114.0,
+        "mom": 8.33,
+        "yoy": 59.5
+    },
+    {
+        "stock_id": "1808",
+        "stock_name": "潤隆",
+        "revenue": 114.0,
+        "mom": 31.7,
+        "yoy": 11.83
+    },
+    {
+        "stock_id": "1809",
+        "stock_name": "中釉",
+        "revenue": 114.0,
+        "mom": 58.5,
+        "yoy": 307.89
+    },
+    {
+        "stock_id": "1810",
+        "stock_name": "和成",
+        "revenue": 114.0,
+        "mom": 20.55,
+        "yoy": 5.44
+    },
+    {
+        "stock_id": "1817",
+        "stock_name": "凱撒衛",
+        "revenue": 114.0,
+        "mom": 39.7,
+        "yoy": 9.47
+    },
+    {
+        "stock_id": "1903",
+        "stock_name": "士紙",
+        "revenue": 113.0,
+        "mom": 50.3,
+        "yoy": 38.99
+    },
+    {
+        "stock_id": "1904",
+        "stock_name": "正隆",
+        "revenue": 114.0,
+        "mom": 22.3,
+        "yoy": 18.28
+    },
+    {
+        "stock_id": "1905",
+        "stock_name": "華紙",
+        "revenue": 113.0,
+        "mom": 14.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1906",
+        "stock_name": "寶隆",
+        "revenue": 114.0,
+        "mom": 11.45,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "1907",
+        "stock_name": "永豐餘",
+        "revenue": 114.0,
+        "mom": 26.4,
+        "yoy": 18.86
+    },
+    {
+        "stock_id": "1909",
+        "stock_name": "榮成",
+        "revenue": 113.0,
+        "mom": 9.93,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2002",
+        "stock_name": "中鋼",
+        "revenue": 114.0,
+        "mom": 19.25,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2006",
+        "stock_name": "東和鋼鐵",
+        "revenue": 114.0,
+        "mom": 67.4,
+        "yoy": 10.17
+    },
+    {
+        "stock_id": "2007",
+        "stock_name": "燁興",
+        "revenue": 113.0,
+        "mom": 7.95,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2008",
+        "stock_name": "高興昌",
+        "revenue": 114.0,
+        "mom": 30.0,
+        "yoy": 40.0
+    },
+    {
+        "stock_id": "2009",
+        "stock_name": "第一銅",
+        "revenue": 114.0,
+        "mom": 44.5,
+        "yoy": 78.07
+    },
+    {
+        "stock_id": "2010",
+        "stock_name": "春源",
+        "revenue": 114.0,
+        "mom": 24.1,
+        "yoy": 10.34
+    },
+    {
+        "stock_id": "2012",
+        "stock_name": "春雨",
+        "revenue": 114.0,
+        "mom": 14.75,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2013",
+        "stock_name": "中鋼構",
+        "revenue": 114.0,
+        "mom": 43.3,
+        "yoy": 13.41
+    },
+    {
+        "stock_id": "2014",
+        "stock_name": "中鴻",
+        "revenue": 114.0,
+        "mom": 18.7,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2015",
+        "stock_name": "豐興",
+        "revenue": 114.0,
+        "mom": 63.0,
+        "yoy": 15.87
+    },
+    {
+        "stock_id": "2017",
+        "stock_name": "官田鋼",
+        "revenue": 114.0,
+        "mom": 9.86,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2020",
+        "stock_name": "美亞",
+        "revenue": 114.0,
+        "mom": 21.85,
+        "yoy": 11.26
+    },
+    {
+        "stock_id": "2022",
+        "stock_name": "聚亨",
+        "revenue": 113.0,
+        "mom": 8.08,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2023",
+        "stock_name": "燁輝",
+        "revenue": 113.0,
+        "mom": 13.9,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2024",
+        "stock_name": "志聯",
+        "revenue": 113.0,
+        "mom": 14.05,
+        "yoy": 200.71
+    },
+    {
+        "stock_id": "2025",
+        "stock_name": "千興",
+        "revenue": 113.0,
+        "mom": 12.2,
+        "yoy": 76.25
+    },
+    {
+        "stock_id": "2027",
+        "stock_name": "大成鋼",
+        "revenue": 114.0,
+        "mom": 44.1,
+        "yoy": 12.89
+    },
+    {
+        "stock_id": "2028",
+        "stock_name": "威致",
+        "revenue": 114.0,
+        "mom": 17.3,
+        "yoy": 49.43
+    },
+    {
+        "stock_id": "2029",
+        "stock_name": "盛餘",
+        "revenue": 114.0,
+        "mom": 20.9,
+        "yoy": 33.71
+    },
+    {
+        "stock_id": "2030",
+        "stock_name": "彰源",
+        "revenue": 114.0,
+        "mom": 18.65,
+        "yoy": 28.26
+    },
+    {
+        "stock_id": "2031",
+        "stock_name": "新光鋼",
+        "revenue": 114.0,
+        "mom": 43.0,
+        "yoy": 9.41
+    },
+    {
+        "stock_id": "2032",
+        "stock_name": "新鋼",
+        "revenue": 114.0,
+        "mom": 18.3,
+        "yoy": 21.28
+    },
+    {
+        "stock_id": "2033",
+        "stock_name": "佳大",
+        "revenue": 113.0,
+        "mom": 15.95,
+        "yoy": 48.33
+    },
+    {
+        "stock_id": "2034",
+        "stock_name": "允強",
+        "revenue": 114.0,
+        "mom": 20.3,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2038",
+        "stock_name": "海光",
+        "revenue": 113.0,
+        "mom": 14.3,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2049",
+        "stock_name": "上銀",
+        "revenue": 114.0,
+        "mom": 358.0,
+        "yoy": 78.0
+    },
+    {
+        "stock_id": "2062",
+        "stock_name": "橋椿",
+        "revenue": 114.0,
+        "mom": 19.65,
+        "yoy": 93.57
+    },
+    {
+        "stock_id": "2069",
+        "stock_name": "運錩",
+        "revenue": 114.0,
+        "mom": 19.85,
+        "yoy": 10.79
+    },
+    {
+        "stock_id": "2072",
+        "stock_name": "世紀風電",
+        "revenue": 114.0,
+        "mom": 199.0,
+        "yoy": 15.23
+    },
+    {
+        "stock_id": "2101",
+        "stock_name": "南港",
+        "revenue": 114.0,
+        "mom": 32.45,
+        "yoy": 10.47
+    },
+    {
+        "stock_id": "2102",
+        "stock_name": "泰豐",
+        "revenue": 114.0,
+        "mom": 18.2,
+        "yoy": 2.81
+    },
+    {
+        "stock_id": "2103",
+        "stock_name": "台橡",
+        "revenue": 114.0,
+        "mom": 22.25,
+        "yoy": 33.21
+    },
+    {
+        "stock_id": "2104",
+        "stock_name": "國際中橡",
+        "revenue": 114.0,
+        "mom": 11.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2105",
+        "stock_name": "正新",
+        "revenue": 114.0,
+        "mom": 34.55,
+        "yoy": 21.33
+    },
+    {
+        "stock_id": "2106",
+        "stock_name": "建大",
+        "revenue": 114.0,
+        "mom": 18.4,
+        "yoy": 108.24
+    },
+    {
+        "stock_id": "2107",
+        "stock_name": "厚生",
+        "revenue": 114.0,
+        "mom": 26.05,
+        "yoy": 18.09
+    },
+    {
+        "stock_id": "2108",
+        "stock_name": "南帝",
+        "revenue": 114.0,
+        "mom": 30.9,
+        "yoy": 35.52
+    },
+    {
+        "stock_id": "2109",
+        "stock_name": "華豐",
+        "revenue": 114.0,
+        "mom": 14.65,
+        "yoy": 12.21
+    },
+    {
+        "stock_id": "2114",
+        "stock_name": "鑫永銓",
+        "revenue": 114.0,
+        "mom": 91.4,
+        "yoy": 15.9
+    },
+    {
+        "stock_id": "2115",
+        "stock_name": "六暉-KY",
+        "revenue": 114.0,
+        "mom": 21.95,
+        "yoy": 17.28
+    },
+    {
+        "stock_id": "2201",
+        "stock_name": "裕隆",
+        "revenue": 114.0,
+        "mom": 28.8,
+        "yoy": 33.88
+    },
+    {
+        "stock_id": "2204",
+        "stock_name": "中華",
+        "revenue": 114.0,
+        "mom": 56.1,
+        "yoy": 10.35
+    },
+    {
+        "stock_id": "2206",
+        "stock_name": "三陽工業",
+        "revenue": 114.0,
+        "mom": 62.9,
+        "yoy": 11.09
+    },
+    {
+        "stock_id": "2207",
+        "stock_name": "和泰車",
+        "revenue": 114.0,
+        "mom": 485.5,
+        "yoy": 14.22
+    },
+    {
+        "stock_id": "2208",
+        "stock_name": "台船",
+        "revenue": 113.0,
+        "mom": 18.15,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2211",
+        "stock_name": "長榮鋼",
+        "revenue": 114.0,
+        "mom": 94.6,
+        "yoy": 11.56
+    },
+    {
+        "stock_id": "2227",
+        "stock_name": "裕日車",
+        "revenue": 114.0,
+        "mom": 50.3,
+        "yoy": 54.09
+    },
+    {
+        "stock_id": "2228",
+        "stock_name": "劍麟",
+        "revenue": 114.0,
+        "mom": 85.5,
+        "yoy": 20.02
+    },
+    {
+        "stock_id": "2231",
+        "stock_name": "為升",
+        "revenue": 114.0,
+        "mom": 102.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2233",
+        "stock_name": "宇隆",
+        "revenue": 114.0,
+        "mom": 316.5,
+        "yoy": 50.48
+    },
+    {
+        "stock_id": "2236",
+        "stock_name": "百達-KY",
+        "revenue": 114.0,
+        "mom": 136.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2239",
+        "stock_name": "英利-KY",
+        "revenue": 113.0,
+        "mom": 25.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2241",
+        "stock_name": "艾姆勒",
+        "revenue": 113.0,
+        "mom": 32.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2243",
+        "stock_name": "宏旭-KY",
+        "revenue": 114.0,
+        "mom": 29.65,
+        "yoy": 11.91
+    },
+    {
+        "stock_id": "2247",
+        "stock_name": "汎德永業",
+        "revenue": 114.0,
+        "mom": 234.5,
+        "yoy": 14.77
+    },
+    {
+        "stock_id": "2248",
+        "stock_name": "華勝-KY",
+        "revenue": 114.0,
+        "mom": 57.7,
+        "yoy": 9.75
+    },
+    {
+        "stock_id": "2250",
+        "stock_name": "IKKA-KY",
+        "revenue": 114.0,
+        "mom": 66.0,
+        "yoy": 19.58
+    },
+    {
+        "stock_id": "2254",
+        "stock_name": "巨鎧精密-創",
+        "revenue": 113.0,
+        "mom": 63.7,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2258",
+        "stock_name": "鴻華先進-創",
+        "revenue": 114.0,
+        "mom": 32.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2301",
+        "stock_name": "光寶科",
+        "revenue": 114.0,
+        "mom": 248.5,
+        "yoy": 36.54
+    },
+    {
+        "stock_id": "2302",
+        "stock_name": "麗正",
+        "revenue": 114.0,
+        "mom": 34.75,
+        "yoy": 43.99
+    },
+    {
+        "stock_id": "2303",
+        "stock_name": "聯電",
+        "revenue": 114.0,
+        "mom": 125.0,
+        "yoy": 31.41
+    },
+    {
+        "stock_id": "2305",
+        "stock_name": "全友",
+        "revenue": 114.0,
+        "mom": 22.55,
+        "yoy": 83.52
+    },
+    {
+        "stock_id": "2312",
+        "stock_name": "金寶",
+        "revenue": 114.0,
+        "mom": 41.05,
+        "yoy": 39.47
+    },
+    {
+        "stock_id": "2313",
+        "stock_name": "華通",
+        "revenue": 114.0,
+        "mom": 265.5,
+        "yoy": 46.83
+    },
+    {
+        "stock_id": "2314",
+        "stock_name": "台揚",
+        "revenue": 113.0,
+        "mom": 16.75,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2316",
+        "stock_name": "楠梓電",
+        "revenue": 114.0,
+        "mom": 160.0,
+        "yoy": 10.36
+    },
+    {
+        "stock_id": "2317",
+        "stock_name": "鴻海",
+        "revenue": 114.0,
+        "mom": 293.0,
+        "yoy": 20.81
+    },
+    {
+        "stock_id": "2321",
+        "stock_name": "東訊",
+        "revenue": 114.0,
+        "mom": 14.65,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2323",
+        "stock_name": "中環",
+        "revenue": 114.0,
+        "mom": 12.15,
+        "yoy": 5.57
+    },
+    {
+        "stock_id": "2324",
+        "stock_name": "仁寶",
+        "revenue": 114.0,
+        "mom": 42.35,
+        "yoy": 31.84
+    },
+    {
+        "stock_id": "2327",
+        "stock_name": "國巨*",
+        "revenue": 114.0,
+        "mom": 743.0,
+        "yoy": 58.5
+    },
+    {
+        "stock_id": "2328",
+        "stock_name": "廣宇",
+        "revenue": 114.0,
+        "mom": 57.9,
+        "yoy": 59.08
+    },
+    {
+        "stock_id": "2329",
+        "stock_name": "華泰",
+        "revenue": 114.0,
+        "mom": 58.0,
+        "yoy": 26.24
+    },
+    {
+        "stock_id": "2331",
+        "stock_name": "精英",
+        "revenue": 113.0,
+        "mom": 23.35,
+        "yoy": 46.7
+    },
+    {
+        "stock_id": "2332",
+        "stock_name": "友訊",
+        "revenue": 114.0,
+        "mom": 16.55,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2337",
+        "stock_name": "旺宏",
+        "revenue": 113.0,
+        "mom": 156.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2338",
+        "stock_name": "光罩",
+        "revenue": 113.0,
+        "mom": 52.7,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2340",
+        "stock_name": "台亞",
+        "revenue": 113.0,
+        "mom": 37.1,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2342",
+        "stock_name": "茂矽",
+        "revenue": 114.0,
+        "mom": 43.05,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2344",
+        "stock_name": "華邦電",
+        "revenue": 114.0,
+        "mom": 179.5,
+        "yoy": 53.26
+    },
+    {
+        "stock_id": "2347",
+        "stock_name": "聯強",
+        "revenue": 114.0,
+        "mom": 89.9,
+        "yoy": 15.63
+    },
+    {
+        "stock_id": "2348",
+        "stock_name": "海悅",
+        "revenue": 114.0,
+        "mom": 74.3,
+        "yoy": 17.9
+    },
+    {
+        "stock_id": "2349",
+        "stock_name": "錸德",
+        "revenue": 113.0,
+        "mom": 14.9,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2351",
+        "stock_name": "順德",
+        "revenue": 114.0,
+        "mom": 211.0,
+        "yoy": 93.36
+    },
+    {
+        "stock_id": "2352",
+        "stock_name": "佳世達",
+        "revenue": 114.0,
+        "mom": 34.25,
+        "yoy": 55.24
+    },
+    {
+        "stock_id": "2353",
+        "stock_name": "宏碁",
+        "revenue": 114.0,
+        "mom": 39.1,
+        "yoy": 29.62
+    },
+    {
+        "stock_id": "2354",
+        "stock_name": "鴻準",
+        "revenue": 114.0,
+        "mom": 62.3,
+        "yoy": 29.53
+    },
+    {
+        "stock_id": "2355",
+        "stock_name": "敬鵬",
+        "revenue": 114.0,
+        "mom": 56.4,
+        "yoy": 33.37
+    },
+    {
+        "stock_id": "2356",
+        "stock_name": "英業達",
+        "revenue": 114.0,
+        "mom": 77.8,
+        "yoy": 29.58
+    },
+    {
+        "stock_id": "2357",
+        "stock_name": "華碩",
+        "revenue": 114.0,
+        "mom": 892.0,
+        "yoy": 15.94
+    },
+    {
+        "stock_id": "2359",
+        "stock_name": "所羅門",
+        "revenue": 114.0,
+        "mom": 143.0,
+        "yoy": 73.71
+    },
+    {
+        "stock_id": "2362",
+        "stock_name": "藍天",
+        "revenue": 114.0,
+        "mom": 48.35,
+        "yoy": 21.58
+    },
+    {
+        "stock_id": "2363",
+        "stock_name": "矽統",
+        "revenue": 114.0,
+        "mom": 63.1,
+        "yoy": 37.12
+    },
+    {
+        "stock_id": "2364",
+        "stock_name": "倫飛",
+        "revenue": 114.0,
+        "mom": 80.6,
+        "yoy": 20.61
+    },
+    {
+        "stock_id": "2365",
+        "stock_name": "昆盈",
+        "revenue": 114.0,
+        "mom": 36.65,
+        "yoy": 93.97
+    },
+    {
+        "stock_id": "2367",
+        "stock_name": "燿華",
+        "revenue": 114.0,
+        "mom": 62.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2369",
+        "stock_name": "菱生",
+        "revenue": 113.0,
+        "mom": 35.25,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2371",
+        "stock_name": "大同",
+        "revenue": 114.0,
+        "mom": 32.05,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2373",
+        "stock_name": "震旦行",
+        "revenue": 114.0,
+        "mom": 58.8,
+        "yoy": 15.08
+    },
+    {
+        "stock_id": "2374",
+        "stock_name": "佳能",
+        "revenue": 114.0,
+        "mom": 80.9,
+        "yoy": 29.1
+    },
+    {
+        "stock_id": "2375",
+        "stock_name": "凱美",
+        "revenue": 114.0,
+        "mom": 145.0,
+        "yoy": 44.07
+    },
+    {
+        "stock_id": "2376",
+        "stock_name": "技嘉",
+        "revenue": 114.0,
+        "mom": 374.0,
+        "yoy": 17.47
+    },
+    {
+        "stock_id": "2377",
+        "stock_name": "微星",
+        "revenue": 114.0,
+        "mom": 140.0,
+        "yoy": 14.63
+    },
+    {
+        "stock_id": "2379",
+        "stock_name": "瑞昱",
+        "revenue": 114.0,
+        "mom": 624.0,
+        "yoy": 22.46
+    },
+    {
+        "stock_id": "2380",
+        "stock_name": "虹光",
+        "revenue": 113.0,
+        "mom": 5.96,
+        "yoy": 5.68
+    },
+    {
+        "stock_id": "2382",
+        "stock_name": "廣達",
+        "revenue": 114.0,
+        "mom": 404.0,
+        "yoy": 20.31
+    },
+    {
+        "stock_id": "2385",
+        "stock_name": "群光",
+        "revenue": 114.0,
+        "mom": 146.5,
+        "yoy": 16.53
+    },
+    {
+        "stock_id": "2387",
+        "stock_name": "精元",
+        "revenue": 114.0,
+        "mom": 42.3,
+        "yoy": 14.84
+    },
+    {
+        "stock_id": "2388",
+        "stock_name": "威盛",
+        "revenue": 114.0,
+        "mom": 73.3,
+        "yoy": 407.22
+    },
+    {
+        "stock_id": "2390",
+        "stock_name": "云辰",
+        "revenue": 113.0,
+        "mom": 13.1,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2392",
+        "stock_name": "正崴",
+        "revenue": 114.0,
+        "mom": 42.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2393",
+        "stock_name": "億光",
+        "revenue": 114.0,
+        "mom": 66.7,
+        "yoy": 15.92
+    },
+    {
+        "stock_id": "2395",
+        "stock_name": "研華",
+        "revenue": 114.0,
+        "mom": 522.0,
+        "yoy": 40.5
+    },
+    {
+        "stock_id": "2397",
+        "stock_name": "友通",
+        "revenue": 114.0,
+        "mom": 65.4,
+        "yoy": 28.19
+    },
+    {
+        "stock_id": "2399",
+        "stock_name": "映泰",
+        "revenue": 113.0,
+        "mom": 49.75,
+        "yoy": 31.89
+    },
+    {
+        "stock_id": "2401",
+        "stock_name": "凌陽",
+        "revenue": 113.0,
+        "mom": 28.1,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2402",
+        "stock_name": "毅嘉",
+        "revenue": 114.0,
+        "mom": 69.3,
+        "yoy": 35.54
+    },
+    {
+        "stock_id": "2405",
+        "stock_name": "輔信",
+        "revenue": 114.0,
+        "mom": 20.25,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2406",
+        "stock_name": "國碩",
+        "revenue": 113.0,
+        "mom": 38.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2408",
+        "stock_name": "南亞科",
+        "revenue": 114.0,
+        "mom": 395.0,
+        "yoy": 35.36
+    },
+    {
+        "stock_id": "2409",
+        "stock_name": "友達",
+        "revenue": 114.0,
+        "mom": 29.25,
+        "yoy": 91.41
+    },
+    {
+        "stock_id": "2412",
+        "stock_name": "中華電",
+        "revenue": 114.0,
+        "mom": 141.5,
+        "yoy": 28.13
+    },
+    {
+        "stock_id": "2413",
+        "stock_name": "環科",
+        "revenue": 114.0,
+        "mom": 52.7,
+        "yoy": 68.44
+    },
+    {
+        "stock_id": "2414",
+        "stock_name": "精技",
+        "revenue": 114.0,
+        "mom": 53.3,
+        "yoy": 15.1
+    },
+    {
+        "stock_id": "2415",
+        "stock_name": "錩新",
+        "revenue": 114.0,
+        "mom": 27.9,
+        "yoy": 14.53
+    },
+    {
+        "stock_id": "2417",
+        "stock_name": "圓剛",
+        "revenue": 114.0,
+        "mom": 48.8,
+        "yoy": 187.69
+    },
+    {
+        "stock_id": "2419",
+        "stock_name": "仲琦",
+        "revenue": 114.0,
+        "mom": 31.25,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2420",
+        "stock_name": "新巨",
+        "revenue": 114.0,
+        "mom": 65.3,
+        "yoy": 16.57
+    },
+    {
+        "stock_id": "2421",
+        "stock_name": "建準",
+        "revenue": 114.0,
+        "mom": 168.5,
+        "yoy": 20.57
+    },
+    {
+        "stock_id": "2423",
+        "stock_name": "固緯",
+        "revenue": 114.0,
+        "mom": 78.8,
+        "yoy": 22.13
+    },
+    {
+        "stock_id": "2424",
+        "stock_name": "隴華",
+        "revenue": 113.0,
+        "mom": 13.35,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2425",
+        "stock_name": "承啟",
+        "revenue": 114.0,
+        "mom": 35.75,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2426",
+        "stock_name": "鼎元",
+        "revenue": 114.0,
+        "mom": 72.1,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2427",
+        "stock_name": "三商電",
+        "revenue": 114.0,
+        "mom": 23.5,
+        "yoy": 18.36
+    },
+    {
+        "stock_id": "2428",
+        "stock_name": "興勤",
+        "revenue": 114.0,
+        "mom": 265.0,
+        "yoy": 24.09
+    },
+    {
+        "stock_id": "2429",
+        "stock_name": "銘旺科",
+        "revenue": 113.0,
+        "mom": 44.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2430",
+        "stock_name": "燦坤",
+        "revenue": 114.0,
+        "mom": 19.1,
+        "yoy": 39.79
+    },
+    {
+        "stock_id": "2431",
+        "stock_name": "聯昌",
+        "revenue": 114.0,
+        "mom": 11.15,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2432",
+        "stock_name": "倚天酷碁-創",
+        "revenue": 114.0,
+        "mom": 28.0,
+        "yoy": 14.58
+    },
+    {
+        "stock_id": "2433",
+        "stock_name": "互盛電",
+        "revenue": 114.0,
+        "mom": 44.55,
+        "yoy": 14.61
+    },
+    {
+        "stock_id": "2434",
+        "stock_name": "統懋",
+        "revenue": 113.0,
+        "mom": 35.55,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2436",
+        "stock_name": "偉詮電",
+        "revenue": 114.0,
+        "mom": 71.8,
+        "yoy": 21.31
+    },
+    {
+        "stock_id": "2438",
+        "stock_name": "翔耀",
+        "revenue": 113.0,
+        "mom": 25.95,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2439",
+        "stock_name": "美律",
+        "revenue": 114.0,
+        "mom": 92.6,
+        "yoy": 18.82
+    },
+    {
+        "stock_id": "2440",
+        "stock_name": "太空梭",
+        "revenue": 113.0,
+        "mom": 20.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2441",
+        "stock_name": "超豐",
+        "revenue": 114.0,
+        "mom": 136.5,
+        "yoy": 29.23
+    },
+    {
+        "stock_id": "2442",
+        "stock_name": "新美齊",
+        "revenue": 114.0,
+        "mom": 19.6,
+        "yoy": 3.73
+    },
+    {
+        "stock_id": "2444",
+        "stock_name": "兆勁",
+        "revenue": 114.0,
+        "mom": 13.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2449",
+        "stock_name": "京元電子",
+        "revenue": 114.0,
+        "mom": 322.0,
+        "yoy": 43.69
+    },
+    {
+        "stock_id": "2450",
+        "stock_name": "神腦",
+        "revenue": 114.0,
+        "mom": 31.3,
+        "yoy": 20.46
+    },
+    {
+        "stock_id": "2451",
+        "stock_name": "創見",
+        "revenue": 114.0,
+        "mom": 357.0,
+        "yoy": 11.55
+    },
+    {
+        "stock_id": "2453",
+        "stock_name": "凌群",
+        "revenue": 114.0,
+        "mom": 61.0,
+        "yoy": 19.43
+    },
+    {
+        "stock_id": "2455",
+        "stock_name": "全新",
+        "revenue": 114.0,
+        "mom": 402.0,
+        "yoy": 126.81
+    },
+    {
+        "stock_id": "2457",
+        "stock_name": "飛宏",
+        "revenue": 113.0,
+        "mom": 32.05,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2458",
+        "stock_name": "義隆",
+        "revenue": 114.0,
+        "mom": 162.0,
+        "yoy": 17.84
+    },
+    {
+        "stock_id": "2459",
+        "stock_name": "敦吉",
+        "revenue": 114.0,
+        "mom": 70.0,
+        "yoy": 13.38
+    },
+    {
+        "stock_id": "2460",
+        "stock_name": "建通",
+        "revenue": 113.0,
+        "mom": 33.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2461",
+        "stock_name": "光群雷",
+        "revenue": 114.0,
+        "mom": 17.75,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2462",
+        "stock_name": "良得電",
+        "revenue": 114.0,
+        "mom": 24.6,
+        "yoy": 351.43
+    },
+    {
+        "stock_id": "2464",
+        "stock_name": "盟立",
+        "revenue": 114.0,
+        "mom": 170.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2465",
+        "stock_name": "麗臺",
+        "revenue": 113.0,
+        "mom": 85.2,
+        "yoy": 64.55
+    },
+    {
+        "stock_id": "2466",
+        "stock_name": "冠西電",
+        "revenue": 113.0,
+        "mom": 45.0,
+        "yoy": 60.81
+    },
+    {
+        "stock_id": "2467",
+        "stock_name": "志聖",
+        "revenue": 114.0,
+        "mom": 626.0,
+        "yoy": 83.24
+    },
+    {
+        "stock_id": "2468",
+        "stock_name": "華經",
+        "revenue": 114.0,
+        "mom": 44.75,
+        "yoy": 34.96
+    },
+    {
+        "stock_id": "2471",
+        "stock_name": "資通",
+        "revenue": 114.0,
+        "mom": 54.6,
+        "yoy": 14.26
+    },
+    {
+        "stock_id": "2472",
+        "stock_name": "立隆電",
+        "revenue": 114.0,
+        "mom": 350.0,
+        "yoy": 40.46
+    },
+    {
+        "stock_id": "2474",
+        "stock_name": "可成",
+        "revenue": 114.0,
+        "mom": 242.0,
+        "yoy": 23.18
+    },
+    {
+        "stock_id": "2476",
+        "stock_name": "鉅祥",
+        "revenue": 114.0,
+        "mom": 121.0,
+        "yoy": 27.69
+    },
+    {
+        "stock_id": "2477",
+        "stock_name": "美隆電",
+        "revenue": 114.0,
+        "mom": 23.8,
+        "yoy": 14.69
+    },
+    {
+        "stock_id": "2478",
+        "stock_name": "大毅",
+        "revenue": 114.0,
+        "mom": 137.5,
+        "yoy": 37.06
+    },
+    {
+        "stock_id": "2480",
+        "stock_name": "敦陽科",
+        "revenue": 114.0,
+        "mom": 160.5,
+        "yoy": 19.13
+    },
+    {
+        "stock_id": "2481",
+        "stock_name": "強茂",
+        "revenue": 114.0,
+        "mom": 159.5,
+        "yoy": 50.63
+    },
+    {
+        "stock_id": "2482",
+        "stock_name": "連宇",
+        "revenue": 114.0,
+        "mom": 17.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2483",
+        "stock_name": "百容",
+        "revenue": 114.0,
+        "mom": 27.7,
+        "yoy": 30.11
+    },
+    {
+        "stock_id": "2484",
+        "stock_name": "希華",
+        "revenue": 114.0,
+        "mom": 50.8,
+        "yoy": 68.65
+    },
+    {
+        "stock_id": "2486",
+        "stock_name": "一詮",
+        "revenue": 114.0,
+        "mom": 274.5,
+        "yoy": 538.24
+    },
+    {
+        "stock_id": "2488",
+        "stock_name": "漢平",
+        "revenue": 114.0,
+        "mom": 54.0,
+        "yoy": 11.64
+    },
+    {
+        "stock_id": "2489",
+        "stock_name": "瑞軒",
+        "revenue": 114.0,
+        "mom": 49.05,
+        "yoy": 45.0
+    },
+    {
+        "stock_id": "2491",
+        "stock_name": "吉祥全",
+        "revenue": 113.0,
+        "mom": 34.0,
+        "yoy": 9.88
+    },
+    {
+        "stock_id": "2492",
+        "stock_name": "華新科",
+        "revenue": 114.0,
+        "mom": 392.0,
+        "yoy": 75.1
+    },
+    {
+        "stock_id": "2493",
+        "stock_name": "揚博",
+        "revenue": 114.0,
+        "mom": 177.5,
+        "yoy": 41.96
+    },
+    {
+        "stock_id": "2495",
+        "stock_name": "普安",
+        "revenue": 114.0,
+        "mom": 51.0,
+        "yoy": 45.13
+    },
+    {
+        "stock_id": "2496",
+        "stock_name": "卓越",
+        "revenue": 114.0,
+        "mom": 65.9,
+        "yoy": 10.3
+    },
+    {
+        "stock_id": "2497",
+        "stock_name": "怡利電",
+        "revenue": 114.0,
+        "mom": 61.7,
+        "yoy": 27.3
+    },
+    {
+        "stock_id": "2498",
+        "stock_name": "宏達電",
+        "revenue": 114.0,
+        "mom": 47.7,
+        "yoy": 23.04
+    },
+    {
+        "stock_id": "2501",
+        "stock_name": "國建",
+        "revenue": 114.0,
+        "mom": 23.5,
+        "yoy": 6.07
+    },
+    {
+        "stock_id": "2504",
+        "stock_name": "國產",
+        "revenue": 114.0,
+        "mom": 36.0,
+        "yoy": 10.94
+    },
+    {
+        "stock_id": "2505",
+        "stock_name": "國揚",
+        "revenue": 114.0,
+        "mom": 17.8,
+        "yoy": 8.94
+    },
+    {
+        "stock_id": "2506",
+        "stock_name": "太設",
+        "revenue": 114.0,
+        "mom": 8.89,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2509",
+        "stock_name": "全坤建",
+        "revenue": 113.0,
+        "mom": 13.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2511",
+        "stock_name": "太子",
+        "revenue": 114.0,
+        "mom": 8.02,
+        "yoy": 22.91
+    },
+    {
+        "stock_id": "2514",
+        "stock_name": "龍邦",
+        "revenue": 113.0,
+        "mom": 13.85,
+        "yoy": 7.87
+    },
+    {
+        "stock_id": "2515",
+        "stock_name": "中工",
+        "revenue": 114.0,
+        "mom": 13.25,
+        "yoy": 27.6
+    },
+    {
+        "stock_id": "2516",
+        "stock_name": "新建",
+        "revenue": 113.0,
+        "mom": 12.3,
+        "yoy": 10.42
+    },
+    {
+        "stock_id": "2520",
+        "stock_name": "冠德",
+        "revenue": 114.0,
+        "mom": 31.8,
+        "yoy": 13.2
+    },
+    {
+        "stock_id": "2524",
+        "stock_name": "京城",
+        "revenue": 113.0,
+        "mom": 36.25,
+        "yoy": 63.6
+    },
+    {
+        "stock_id": "2527",
+        "stock_name": "宏璟",
+        "revenue": 114.0,
+        "mom": 37.0,
+        "yoy": 7.3
+    },
+    {
+        "stock_id": "2528",
+        "stock_name": "皇普",
+        "revenue": 114.0,
+        "mom": 21.25,
+        "yoy": 8.89
+    },
+    {
+        "stock_id": "2530",
+        "stock_name": "華建",
+        "revenue": 114.0,
+        "mom": 19.1,
+        "yoy": 9.74
+    },
+    {
+        "stock_id": "2534",
+        "stock_name": "宏盛",
+        "revenue": 114.0,
+        "mom": 18.05,
+        "yoy": 17.52
+    },
+    {
+        "stock_id": "2535",
+        "stock_name": "達欣工",
+        "revenue": 114.0,
+        "mom": 80.2,
+        "yoy": 9.62
+    },
+    {
+        "stock_id": "2536",
+        "stock_name": "宏普",
+        "revenue": 114.0,
+        "mom": 20.1,
+        "yoy": 6.07
+    },
+    {
+        "stock_id": "2537",
+        "stock_name": "聯上發",
+        "revenue": 113.0,
+        "mom": 10.05,
+        "yoy": 31.41
+    },
+    {
+        "stock_id": "2538",
+        "stock_name": "基泰",
+        "revenue": 114.0,
+        "mom": 9.98,
+        "yoy": 27.72
+    },
+    {
+        "stock_id": "2539",
+        "stock_name": "櫻花建",
+        "revenue": 114.0,
+        "mom": 38.15,
+        "yoy": 13.48
+    },
+    {
+        "stock_id": "2540",
+        "stock_name": "愛山林",
+        "revenue": 114.0,
+        "mom": 53.5,
+        "yoy": 89.17
+    },
+    {
+        "stock_id": "2542",
+        "stock_name": "興富發",
+        "revenue": 114.0,
+        "mom": 43.1,
+        "yoy": 13.26
+    },
+    {
+        "stock_id": "2543",
+        "stock_name": "皇昌",
+        "revenue": 114.0,
+        "mom": 46.1,
+        "yoy": 18.59
+    },
+    {
+        "stock_id": "2545",
+        "stock_name": "皇翔",
+        "revenue": 114.0,
+        "mom": 38.1,
+        "yoy": 25.74
+    },
+    {
+        "stock_id": "2546",
+        "stock_name": "根基",
+        "revenue": 114.0,
+        "mom": 87.7,
+        "yoy": 9.22
+    },
+    {
+        "stock_id": "2547",
+        "stock_name": "日勝生",
+        "revenue": 114.0,
+        "mom": 10.35,
+        "yoy": 73.93
+    },
+    {
+        "stock_id": "2548",
+        "stock_name": "華固",
+        "revenue": 114.0,
+        "mom": 99.8,
+        "yoy": 7.78
+    },
+    {
+        "stock_id": "2597",
+        "stock_name": "潤弘",
+        "revenue": 114.0,
+        "mom": 179.5,
+        "yoy": 15.8
+    },
+    {
+        "stock_id": "2601",
+        "stock_name": "益航",
+        "revenue": 113.0,
+        "mom": 6.08,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2603",
+        "stock_name": "長榮",
+        "revenue": 114.0,
+        "mom": 236.0,
+        "yoy": 10.31
+    },
+    {
+        "stock_id": "2605",
+        "stock_name": "新興",
+        "revenue": 114.0,
+        "mom": 32.3,
+        "yoy": 15.45
+    },
+    {
+        "stock_id": "2606",
+        "stock_name": "裕民",
+        "revenue": 114.0,
+        "mom": 69.9,
+        "yoy": 13.42
+    },
+    {
+        "stock_id": "2607",
+        "stock_name": "榮運",
+        "revenue": 114.0,
+        "mom": 49.3,
+        "yoy": 10.42
+    },
+    {
+        "stock_id": "2608",
+        "stock_name": "嘉里大榮",
+        "revenue": 114.0,
+        "mom": 30.15,
+        "yoy": 15.0
+    },
+    {
+        "stock_id": "2609",
+        "stock_name": "陽明",
+        "revenue": 114.0,
+        "mom": 53.2,
+        "yoy": 17.27
+    },
+    {
+        "stock_id": "2610",
+        "stock_name": "華航",
+        "revenue": 114.0,
+        "mom": 19.9,
+        "yoy": 7.77
+    },
+    {
+        "stock_id": "2611",
+        "stock_name": "志信",
+        "revenue": 114.0,
+        "mom": 13.9,
+        "yoy": 10.61
+    },
+    {
+        "stock_id": "2612",
+        "stock_name": "中航",
+        "revenue": 114.0,
+        "mom": 55.7,
+        "yoy": 10.15
+    },
+    {
+        "stock_id": "2613",
+        "stock_name": "中櫃",
+        "revenue": 114.0,
+        "mom": 22.3,
+        "yoy": 20.46
+    },
+    {
+        "stock_id": "2614",
+        "stock_name": "東森",
+        "revenue": 114.0,
+        "mom": 18.8,
+        "yoy": 9.22
+    },
+    {
+        "stock_id": "2615",
+        "stock_name": "萬海",
+        "revenue": 114.0,
+        "mom": 83.7,
+        "yoy": 7.73
+    },
+    {
+        "stock_id": "2616",
+        "stock_name": "山隆",
+        "revenue": 114.0,
+        "mom": 14.1,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2617",
+        "stock_name": "台航",
+        "revenue": 114.0,
+        "mom": 29.55,
+        "yoy": 8.93
+    },
+    {
+        "stock_id": "2618",
+        "stock_name": "長榮航",
+        "revenue": 114.0,
+        "mom": 37.9,
+        "yoy": 7.19
+    },
+    {
+        "stock_id": "2630",
+        "stock_name": "亞航",
+        "revenue": 114.0,
+        "mom": 42.15,
+        "yoy": 44.84
+    },
+    {
+        "stock_id": "2633",
+        "stock_name": "台灣高鐵",
+        "revenue": 114.0,
+        "mom": 25.55,
+        "yoy": 21.12
+    },
+    {
+        "stock_id": "2634",
+        "stock_name": "漢翔",
+        "revenue": 114.0,
+        "mom": 46.55,
+        "yoy": 58.19
+    },
+    {
+        "stock_id": "2636",
+        "stock_name": "台驊控股",
+        "revenue": 114.0,
+        "mom": 70.4,
+        "yoy": 10.31
+    },
+    {
+        "stock_id": "2637",
+        "stock_name": "慧洋-KY",
+        "revenue": 114.0,
+        "mom": 78.1,
+        "yoy": 10.98
+    },
+    {
+        "stock_id": "2642",
+        "stock_name": "宅配通",
+        "revenue": 114.0,
+        "mom": 20.8,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2645",
+        "stock_name": "長榮航太",
+        "revenue": 114.0,
+        "mom": 165.0,
+        "yoy": 25.19
+    },
+    {
+        "stock_id": "2646",
+        "stock_name": "星宇航空",
+        "revenue": 113.0,
+        "mom": 20.75,
+        "yoy": 230.56
+    },
+    {
+        "stock_id": "2701",
+        "stock_name": "萬企",
+        "revenue": 114.0,
+        "mom": 10.55,
+        "yoy": 18.51
+    },
+    {
+        "stock_id": "2702",
+        "stock_name": "華園",
+        "revenue": 114.0,
+        "mom": 13.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2704",
+        "stock_name": "國賓",
+        "revenue": 114.0,
+        "mom": 43.75,
+        "yoy": 24.44
+    },
+    {
+        "stock_id": "2705",
+        "stock_name": "六福",
+        "revenue": 113.0,
+        "mom": 15.75,
+        "yoy": 17.7
+    },
+    {
+        "stock_id": "2706",
+        "stock_name": "第一店",
+        "revenue": 114.0,
+        "mom": 12.35,
+        "yoy": 18.43
+    },
+    {
+        "stock_id": "2707",
+        "stock_name": "晶華",
+        "revenue": 114.0,
+        "mom": 180.0,
+        "yoy": 12.86
+    },
+    {
+        "stock_id": "2712",
+        "stock_name": "遠雄來",
+        "revenue": 114.0,
+        "mom": 15.55,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2722",
+        "stock_name": "夏都",
+        "revenue": 114.0,
+        "mom": 23.15,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2723",
+        "stock_name": "美食-KY",
+        "revenue": 114.0,
+        "mom": 64.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2727",
+        "stock_name": "王品",
+        "revenue": 114.0,
+        "mom": 242.5,
+        "yoy": 14.57
+    },
+    {
+        "stock_id": "2731",
+        "stock_name": "雄獅",
+        "revenue": 114.0,
+        "mom": 175.0,
+        "yoy": 10.24
+    },
+    {
+        "stock_id": "2739",
+        "stock_name": "寒舍",
+        "revenue": 114.0,
+        "mom": 36.3,
+        "yoy": 11.98
+    },
+    {
+        "stock_id": "2748",
+        "stock_name": "雲品",
+        "revenue": 114.0,
+        "mom": 40.45,
+        "yoy": 19.45
+    },
+    {
+        "stock_id": "2753",
+        "stock_name": "八方雲集",
+        "revenue": 114.0,
+        "mom": 182.5,
+        "yoy": 13.55
+    },
+    {
+        "stock_id": "2762",
+        "stock_name": "世界健身-KY",
+        "revenue": 114.0,
+        "mom": 85.7,
+        "yoy": 16.17
+    },
+    {
+        "stock_id": "2801",
+        "stock_name": "彰銀",
+        "revenue": 114.0,
+        "mom": 21.4,
+        "yoy": 13.38
+    },
+    {
+        "stock_id": "2812",
+        "stock_name": "台中銀",
+        "revenue": 114.0,
+        "mom": 19.4,
+        "yoy": 12.52
+    },
+    {
+        "stock_id": "2816",
+        "stock_name": "旺旺保",
+        "revenue": 114.0,
+        "mom": 34.3,
+        "yoy": 5.44
+    },
+    {
+        "stock_id": "2820",
+        "stock_name": "華票",
+        "revenue": 114.0,
+        "mom": 17.15,
+        "yoy": 11.28
+    },
+    {
+        "stock_id": "2832",
+        "stock_name": "台產",
+        "revenue": 114.0,
+        "mom": 54.7,
+        "yoy": 10.52
+    },
+    {
+        "stock_id": "2834",
+        "stock_name": "臺企銀",
+        "revenue": 114.0,
+        "mom": 17.1,
+        "yoy": 13.05
+    },
+    {
+        "stock_id": "2836",
+        "stock_name": "高雄銀",
+        "revenue": 114.0,
+        "mom": 12.2,
+        "yoy": 16.49
+    },
+    {
+        "stock_id": "2838",
+        "stock_name": "聯邦銀",
+        "revenue": 114.0,
+        "mom": 21.35,
+        "yoy": 15.14
+    },
+    {
+        "stock_id": "2845",
+        "stock_name": "遠東銀",
+        "revenue": 114.0,
+        "mom": 12.55,
+        "yoy": 14.26
+    },
+    {
+        "stock_id": "2849",
+        "stock_name": "安泰銀",
+        "revenue": 114.0,
+        "mom": 14.2,
+        "yoy": 16.51
+    },
+    {
+        "stock_id": "2850",
+        "stock_name": "新產",
+        "revenue": 114.0,
+        "mom": 145.0,
+        "yoy": 10.35
+    },
+    {
+        "stock_id": "2851",
+        "stock_name": "中再保",
+        "revenue": 114.0,
+        "mom": 36.85,
+        "yoy": 7.11
+    },
+    {
+        "stock_id": "2852",
+        "stock_name": "第一保",
+        "revenue": 114.0,
+        "mom": 27.85,
+        "yoy": 9.04
+    },
+    {
+        "stock_id": "2855",
+        "stock_name": "統一證",
+        "revenue": 114.0,
+        "mom": 55.5,
+        "yoy": 12.42
+    },
+    {
+        "stock_id": "2867",
+        "stock_name": "三商壽",
+        "revenue": 113.0,
+        "mom": 8.12,
+        "yoy": 58.0
+    },
+    {
+        "stock_id": "2880",
+        "stock_name": "華南金",
+        "revenue": 114.0,
+        "mom": 37.7,
+        "yoy": 18.21
+    },
+    {
+        "stock_id": "2881",
+        "stock_name": "富邦金",
+        "revenue": 114.0,
+        "mom": 114.0,
+        "yoy": 15.68
+    },
+    {
+        "stock_id": "2882",
+        "stock_name": "國泰金",
+        "revenue": 114.0,
+        "mom": 94.4,
+        "yoy": 14.32
+    },
+    {
+        "stock_id": "2883",
+        "stock_name": "凱基金",
+        "revenue": 114.0,
+        "mom": 27.4,
+        "yoy": 15.39
+    },
+    {
+        "stock_id": "2884",
+        "stock_name": "玉山金",
+        "revenue": 114.0,
+        "mom": 33.45,
+        "yoy": 15.2
+    },
+    {
+        "stock_id": "2885",
+        "stock_name": "元大金",
+        "revenue": 114.0,
+        "mom": 63.9,
+        "yoy": 19.66
+    },
+    {
+        "stock_id": "2886",
+        "stock_name": "兆豐金",
+        "revenue": 114.0,
+        "mom": 42.1,
+        "yoy": 17.11
+    },
+    {
+        "stock_id": "2887",
+        "stock_name": "台新新光金",
+        "revenue": 114.0,
+        "mom": 28.55,
+        "yoy": 14.0
+    },
+    {
+        "stock_id": "2889",
+        "stock_name": "國票金",
+        "revenue": 114.0,
+        "mom": 15.15,
+        "yoy": 19.68
+    },
+    {
+        "stock_id": "2890",
+        "stock_name": "永豐金",
+        "revenue": 114.0,
+        "mom": 33.15,
+        "yoy": 15.86
+    },
+    {
+        "stock_id": "2891",
+        "stock_name": "中信金",
+        "revenue": 114.0,
+        "mom": 68.0,
+        "yoy": 16.39
+    },
+    {
+        "stock_id": "2892",
+        "stock_name": "第一金",
+        "revenue": 114.0,
+        "mom": 29.55,
+        "yoy": 15.15
+    },
+    {
+        "stock_id": "2897",
+        "stock_name": "王道銀行",
+        "revenue": 114.0,
+        "mom": 10.35,
+        "yoy": 15.22
+    },
+    {
+        "stock_id": "2901",
+        "stock_name": "欣欣",
+        "revenue": 114.0,
+        "mom": 23.5,
+        "yoy": 57.32
+    },
+    {
+        "stock_id": "2903",
+        "stock_name": "遠百",
+        "revenue": 114.0,
+        "mom": 22.95,
+        "yoy": 14.17
+    },
+    {
+        "stock_id": "2904",
+        "stock_name": "匯僑",
+        "revenue": 114.0,
+        "mom": 14.35,
+        "yoy": 24.74
+    },
+    {
+        "stock_id": "2905",
+        "stock_name": "三商",
+        "revenue": 114.0,
+        "mom": 14.35,
+        "yoy": 22.78
+    },
+    {
+        "stock_id": "2906",
+        "stock_name": "高林",
+        "revenue": 114.0,
+        "mom": 12.7,
+        "yoy": 28.22
+    },
+    {
+        "stock_id": "2908",
+        "stock_name": "特力",
+        "revenue": 114.0,
+        "mom": 21.65,
+        "yoy": 54.13
+    },
+    {
+        "stock_id": "2910",
+        "stock_name": "統領",
+        "revenue": 114.0,
+        "mom": 22.2,
+        "yoy": 18.2
+    },
+    {
+        "stock_id": "2911",
+        "stock_name": "麗嬰房",
+        "revenue": 113.0,
+        "mom": 8.22,
+        "yoy": 2.14
+    },
+    {
+        "stock_id": "2912",
+        "stock_name": "統一超",
+        "revenue": 114.0,
+        "mom": 246.0,
+        "yoy": 22.42
+    },
+    {
+        "stock_id": "2913",
+        "stock_name": "農林",
+        "revenue": 113.0,
+        "mom": 11.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2915",
+        "stock_name": "潤泰全",
+        "revenue": 114.0,
+        "mom": 48.9,
+        "yoy": 5.73
+    },
+    {
+        "stock_id": "2923",
+        "stock_name": "鼎固-KY",
+        "revenue": 114.0,
+        "mom": 25.9,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2929",
+        "stock_name": "淘帝-KY",
+        "revenue": 113.0,
+        "mom": 6.13,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2939",
+        "stock_name": "永邑-KY",
+        "revenue": 113.0,
+        "mom": 20.85,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "2945",
+        "stock_name": "三商家購",
+        "revenue": 114.0,
+        "mom": 42.0,
+        "yoy": 18.67
+    },
+    {
+        "stock_id": "3002",
+        "stock_name": "歐格",
+        "revenue": 114.0,
+        "mom": 19.9,
+        "yoy": 60.3
+    },
+    {
+        "stock_id": "3003",
+        "stock_name": "健和興",
+        "revenue": 114.0,
+        "mom": 62.5,
+        "yoy": 61.88
+    },
+    {
+        "stock_id": "3004",
+        "stock_name": "豐達科",
+        "revenue": 114.0,
+        "mom": 127.0,
+        "yoy": 23.78
+    },
+    {
+        "stock_id": "3005",
+        "stock_name": "神基",
+        "revenue": 114.0,
+        "mom": 110.0,
+        "yoy": 13.5
+    },
+    {
+        "stock_id": "3006",
+        "stock_name": "晶豪科",
+        "revenue": 114.0,
+        "mom": 245.0,
+        "yoy": 29.13
+    },
+    {
+        "stock_id": "3010",
+        "stock_name": "華立",
+        "revenue": 114.0,
+        "mom": 140.5,
+        "yoy": 14.98
+    },
+    {
+        "stock_id": "3011",
+        "stock_name": "今皓",
+        "revenue": 113.0,
+        "mom": 15.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3013",
+        "stock_name": "晟銘電",
+        "revenue": 114.0,
+        "mom": 129.5,
+        "yoy": 28.4
+    },
+    {
+        "stock_id": "3014",
+        "stock_name": "聯陽",
+        "revenue": 114.0,
+        "mom": 150.5,
+        "yoy": 16.27
+    },
+    {
+        "stock_id": "3015",
+        "stock_name": "全漢",
+        "revenue": 114.0,
+        "mom": 62.7,
+        "yoy": 30.89
+    },
+    {
+        "stock_id": "3016",
+        "stock_name": "嘉晶",
+        "revenue": 114.0,
+        "mom": 110.5,
+        "yoy": 269.51
+    },
+    {
+        "stock_id": "3018",
+        "stock_name": "隆銘綠能",
+        "revenue": 113.0,
+        "mom": 10.7,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3019",
+        "stock_name": "亞光",
+        "revenue": 114.0,
+        "mom": 152.0,
+        "yoy": 22.16
+    },
+    {
+        "stock_id": "3021",
+        "stock_name": "鴻名",
+        "revenue": 114.0,
+        "mom": 36.0,
+        "yoy": 62.07
+    },
+    {
+        "stock_id": "3022",
+        "stock_name": "威強電",
+        "revenue": 114.0,
+        "mom": 76.0,
+        "yoy": 21.53
+    },
+    {
+        "stock_id": "3023",
+        "stock_name": "信邦",
+        "revenue": 114.0,
+        "mom": 312.5,
+        "yoy": 24.47
+    },
+    {
+        "stock_id": "3024",
+        "stock_name": "憶聲",
+        "revenue": 114.0,
+        "mom": 13.8,
+        "yoy": 153.33
+    },
+    {
+        "stock_id": "3025",
+        "stock_name": "星通",
+        "revenue": 114.0,
+        "mom": 70.1,
+        "yoy": 17.53
+    },
+    {
+        "stock_id": "3026",
+        "stock_name": "禾伸堂",
+        "revenue": 114.0,
+        "mom": 622.0,
+        "yoy": 80.15
+    },
+    {
+        "stock_id": "3027",
+        "stock_name": "盛達",
+        "revenue": 114.0,
+        "mom": 24.25,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3028",
+        "stock_name": "增你強",
+        "revenue": 114.0,
+        "mom": 83.7,
+        "yoy": 16.38
+    },
+    {
+        "stock_id": "3029",
+        "stock_name": "零壹",
+        "revenue": 114.0,
+        "mom": 110.0,
+        "yoy": 16.18
+    },
+    {
+        "stock_id": "3030",
+        "stock_name": "德律",
+        "revenue": 114.0,
+        "mom": 365.0,
+        "yoy": 31.6
+    },
+    {
+        "stock_id": "3031",
+        "stock_name": "佰鴻",
+        "revenue": 114.0,
+        "mom": 31.8,
+        "yoy": 28.39
+    },
+    {
+        "stock_id": "3032",
+        "stock_name": "偉訓",
+        "revenue": 113.0,
+        "mom": 90.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3033",
+        "stock_name": "威健",
+        "revenue": 114.0,
+        "mom": 50.0,
+        "yoy": 19.01
+    },
+    {
+        "stock_id": "3034",
+        "stock_name": "聯詠",
+        "revenue": 114.0,
+        "mom": 489.0,
+        "yoy": 20.04
+    },
+    {
+        "stock_id": "3035",
+        "stock_name": "智原",
+        "revenue": 114.0,
+        "mom": 191.5,
+        "yoy": 101.86
+    },
+    {
+        "stock_id": "3036",
+        "stock_name": "文曄",
+        "revenue": 114.0,
+        "mom": 282.0,
+        "yoy": 20.0
+    },
+    {
+        "stock_id": "3037",
+        "stock_name": "欣興",
+        "revenue": 114.0,
+        "mom": 971.0,
+        "yoy": 142.79
+    },
+    {
+        "stock_id": "3038",
+        "stock_name": "全台",
+        "revenue": 114.0,
+        "mom": 25.15,
+        "yoy": 26.76
+    },
+    {
+        "stock_id": "3040",
+        "stock_name": "遠見",
+        "revenue": 114.0,
+        "mom": 39.15,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3041",
+        "stock_name": "揚智",
+        "revenue": 113.0,
+        "mom": 25.3,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3042",
+        "stock_name": "晶技",
+        "revenue": 114.0,
+        "mom": 208.0,
+        "yoy": 39.69
+    },
+    {
+        "stock_id": "3043",
+        "stock_name": "科風",
+        "revenue": 113.0,
+        "mom": 24.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3044",
+        "stock_name": "健鼎",
+        "revenue": 114.0,
+        "mom": 512.0,
+        "yoy": 24.88
+    },
+    {
+        "stock_id": "3045",
+        "stock_name": "台灣大",
+        "revenue": 114.0,
+        "mom": 116.0,
+        "yoy": 23.53
+    },
+    {
+        "stock_id": "3046",
+        "stock_name": "建碁",
+        "revenue": 114.0,
+        "mom": 60.1,
+        "yoy": 14.66
+    },
+    {
+        "stock_id": "3047",
+        "stock_name": "訊舟",
+        "revenue": 113.0,
+        "mom": 16.35,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3048",
+        "stock_name": "益登",
+        "revenue": 114.0,
+        "mom": 67.8,
+        "yoy": 24.39
+    },
+    {
+        "stock_id": "3049",
+        "stock_name": "精金",
+        "revenue": 113.0,
+        "mom": 17.3,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3050",
+        "stock_name": "鈺德",
+        "revenue": 114.0,
+        "mom": 13.6,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3051",
+        "stock_name": "力特",
+        "revenue": 114.0,
+        "mom": 29.3,
+        "yoy": 28.45
+    },
+    {
+        "stock_id": "3052",
+        "stock_name": "夆典",
+        "revenue": 114.0,
+        "mom": 10.9,
+        "yoy": 11.47
+    },
+    {
+        "stock_id": "3054",
+        "stock_name": "立萬利",
+        "revenue": 114.0,
+        "mom": 83.6,
+        "yoy": 24.66
+    },
+    {
+        "stock_id": "3055",
+        "stock_name": "蔚華科",
+        "revenue": 113.0,
+        "mom": 103.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3056",
+        "stock_name": "富華新",
+        "revenue": 114.0,
+        "mom": 14.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3057",
+        "stock_name": "喬鼎",
+        "revenue": 113.0,
+        "mom": 23.55,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3058",
+        "stock_name": "立德",
+        "revenue": 113.0,
+        "mom": 10.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3059",
+        "stock_name": "華晶科",
+        "revenue": 114.0,
+        "mom": 50.8,
+        "yoy": 41.3
+    },
+    {
+        "stock_id": "3060",
+        "stock_name": "銘異",
+        "revenue": 114.0,
+        "mom": 31.95,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3062",
+        "stock_name": "建漢",
+        "revenue": 113.0,
+        "mom": 29.55,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3090",
+        "stock_name": "日電貿",
+        "revenue": 114.0,
+        "mom": 221.0,
+        "yoy": 46.04
+    },
+    {
+        "stock_id": "3092",
+        "stock_name": "鴻碩",
+        "revenue": 113.0,
+        "mom": 30.85,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3094",
+        "stock_name": "聯傑",
+        "revenue": 114.0,
+        "mom": 32.7,
+        "yoy": 125.77
+    },
+    {
+        "stock_id": "3130",
+        "stock_name": "一零四",
+        "revenue": 114.0,
+        "mom": 222.0,
+        "yoy": 14.72
+    },
+    {
+        "stock_id": "3135",
+        "stock_name": "凌航",
+        "revenue": 114.0,
+        "mom": 240.5,
+        "yoy": 17.02
+    },
+    {
+        "stock_id": "3138",
+        "stock_name": "耀登",
+        "revenue": 114.0,
+        "mom": 163.0,
+        "yoy": 105.84
+    },
+    {
+        "stock_id": "3149",
+        "stock_name": "正達",
+        "revenue": 113.0,
+        "mom": 91.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3150",
+        "stock_name": "鈺寶-創",
+        "revenue": 114.0,
+        "mom": 19.9,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3164",
+        "stock_name": "景岳",
+        "revenue": 114.0,
+        "mom": 16.55,
+        "yoy": 31.83
+    },
+    {
+        "stock_id": "3167",
+        "stock_name": "大量",
+        "revenue": 114.0,
+        "mom": 901.0,
+        "yoy": 87.82
+    },
+    {
+        "stock_id": "3168",
+        "stock_name": "眾福科",
+        "revenue": 114.0,
+        "mom": 48.8,
+        "yoy": 18.21
+    },
+    {
+        "stock_id": "3189",
+        "stock_name": "景碩",
+        "revenue": 114.0,
+        "mom": 692.0,
+        "yoy": 194.93
+    },
+    {
+        "stock_id": "3209",
+        "stock_name": "全科",
+        "revenue": 114.0,
+        "mom": 77.0,
+        "yoy": 21.45
+    },
+    {
+        "stock_id": "3229",
+        "stock_name": "晟鈦",
+        "revenue": 113.0,
+        "mom": 46.5,
+        "yoy": 930.0
+    },
+    {
+        "stock_id": "3231",
+        "stock_name": "緯創",
+        "revenue": 114.0,
+        "mom": 176.0,
+        "yoy": 17.65
+    },
+    {
+        "stock_id": "3257",
+        "stock_name": "虹冠電",
+        "revenue": 114.0,
+        "mom": 62.3,
+        "yoy": 20.98
+    },
+    {
+        "stock_id": "3266",
+        "stock_name": "昇陽",
+        "revenue": 114.0,
+        "mom": 12.75,
+        "yoy": 19.92
+    },
+    {
+        "stock_id": "3296",
+        "stock_name": "勝德",
+        "revenue": 114.0,
+        "mom": 22.7,
+        "yoy": 174.62
+    },
+    {
+        "stock_id": "3305",
+        "stock_name": "昇貿",
+        "revenue": 114.0,
+        "mom": 160.0,
+        "yoy": 45.07
+    },
+    {
+        "stock_id": "3308",
+        "stock_name": "聯德",
+        "revenue": 113.0,
+        "mom": 23.95,
+        "yoy": 199.58
+    },
+    {
+        "stock_id": "3311",
+        "stock_name": "閎暉",
+        "revenue": 114.0,
+        "mom": 40.15,
+        "yoy": 25.9
+    },
+    {
+        "stock_id": "3312",
+        "stock_name": "弘憶股",
+        "revenue": 114.0,
+        "mom": 73.2,
+        "yoy": 43.83
+    },
+    {
+        "stock_id": "3321",
+        "stock_name": "同泰",
+        "revenue": 113.0,
+        "mom": 20.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3338",
+        "stock_name": "泰碩",
+        "revenue": 114.0,
+        "mom": 81.5,
+        "yoy": 55.82
+    },
+    {
+        "stock_id": "3346",
+        "stock_name": "麗清",
+        "revenue": 114.0,
+        "mom": 25.55,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3356",
+        "stock_name": "奇偶",
+        "revenue": 114.0,
+        "mom": 58.9,
+        "yoy": 5.81
+    },
+    {
+        "stock_id": "3376",
+        "stock_name": "新日興",
+        "revenue": 114.0,
+        "mom": 215.5,
+        "yoy": 316.91
+    },
+    {
+        "stock_id": "3380",
+        "stock_name": "明泰",
+        "revenue": 114.0,
+        "mom": 39.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3406",
+        "stock_name": "玉晶光",
+        "revenue": 114.0,
+        "mom": 659.0,
+        "yoy": 19.97
+    },
+    {
+        "stock_id": "3413",
+        "stock_name": "京鼎",
+        "revenue": 114.0,
+        "mom": 322.0,
+        "yoy": 17.1
+    },
+    {
+        "stock_id": "3416",
+        "stock_name": "融程電",
+        "revenue": 114.0,
+        "mom": 180.0,
+        "yoy": 24.66
+    },
+    {
+        "stock_id": "3419",
+        "stock_name": "譁裕",
+        "revenue": 113.0,
+        "mom": 14.3,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3432",
+        "stock_name": "台端",
+        "revenue": 113.0,
+        "mom": 18.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3437",
+        "stock_name": "榮創",
+        "revenue": 113.0,
+        "mom": 23.85,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3447",
+        "stock_name": "展達",
+        "revenue": 114.0,
+        "mom": 40.5,
+        "yoy": 28.32
+    },
+    {
+        "stock_id": "3450",
+        "stock_name": "聯鈞",
+        "revenue": 114.0,
+        "mom": 520.0,
+        "yoy": 154.76
+    },
+    {
+        "stock_id": "3481",
+        "stock_name": "群創",
+        "revenue": 114.0,
+        "mom": 55.8,
+        "yoy": 507.27
+    },
+    {
+        "stock_id": "3494",
+        "stock_name": "誠研",
+        "revenue": 113.0,
+        "mom": 8.12,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3501",
+        "stock_name": "維熹",
+        "revenue": 114.0,
+        "mom": 42.75,
+        "yoy": 23.88
+    },
+    {
+        "stock_id": "3504",
+        "stock_name": "揚明光",
+        "revenue": 113.0,
+        "mom": 80.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3515",
+        "stock_name": "華擎",
+        "revenue": 114.0,
+        "mom": 249.0,
+        "yoy": 15.71
+    },
+    {
+        "stock_id": "3518",
+        "stock_name": "柏騰",
+        "revenue": 113.0,
+        "mom": 32.05,
+        "yoy": 14.63
+    },
+    {
+        "stock_id": "3528",
+        "stock_name": "安馳",
+        "revenue": 114.0,
+        "mom": 140.0,
+        "yoy": 45.16
+    },
+    {
+        "stock_id": "3530",
+        "stock_name": "晶相光",
+        "revenue": 114.0,
+        "mom": 66.6,
+        "yoy": 32.81
+    },
+    {
+        "stock_id": "3532",
+        "stock_name": "台勝科",
+        "revenue": 114.0,
+        "mom": 291.0,
+        "yoy": 368.35
+    },
+    {
+        "stock_id": "3535",
+        "stock_name": "晶彩科",
+        "revenue": 113.0,
+        "mom": 137.0,
+        "yoy": 342.5
+    },
+    {
+        "stock_id": "3543",
+        "stock_name": "州巧",
+        "revenue": 114.0,
+        "mom": 35.45,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3545",
+        "stock_name": "敦泰",
+        "revenue": 114.0,
+        "mom": 56.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3550",
+        "stock_name": "聯穎",
+        "revenue": 113.0,
+        "mom": 23.95,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3557",
+        "stock_name": "嘉威",
+        "revenue": 114.0,
+        "mom": 24.4,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3563",
+        "stock_name": "牧德",
+        "revenue": 114.0,
+        "mom": 807.0,
+        "yoy": 51.53
+    },
+    {
+        "stock_id": "3576",
+        "stock_name": "聯合再生",
+        "revenue": 113.0,
+        "mom": 18.05,
+        "yoy": 42.98
+    },
+    {
+        "stock_id": "3583",
+        "stock_name": "辛耘",
+        "revenue": 114.0,
+        "mom": 872.0,
+        "yoy": 59.12
+    },
+    {
+        "stock_id": "3588",
+        "stock_name": "通嘉",
+        "revenue": 114.0,
+        "mom": 60.4,
+        "yoy": 100.67
+    },
+    {
+        "stock_id": "3591",
+        "stock_name": "艾笛森",
+        "revenue": 113.0,
+        "mom": 24.6,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3592",
+        "stock_name": "瑞鼎",
+        "revenue": 114.0,
+        "mom": 274.5,
+        "yoy": 17.16
+    },
+    {
+        "stock_id": "3593",
+        "stock_name": "力銘",
+        "revenue": 113.0,
+        "mom": 16.45,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3596",
+        "stock_name": "智易",
+        "revenue": 114.0,
+        "mom": 188.0,
+        "yoy": 14.86
+    },
+    {
+        "stock_id": "3605",
+        "stock_name": "宏致",
+        "revenue": 114.0,
+        "mom": 76.3,
+        "yoy": 22.05
+    },
+    {
+        "stock_id": "3607",
+        "stock_name": "谷崧",
+        "revenue": 114.0,
+        "mom": 17.0,
+        "yoy": 43.59
+    },
+    {
+        "stock_id": "3617",
+        "stock_name": "碩天",
+        "revenue": 114.0,
+        "mom": 221.5,
+        "yoy": 15.69
+    },
+    {
+        "stock_id": "3622",
+        "stock_name": "洋華",
+        "revenue": 114.0,
+        "mom": 61.3,
+        "yoy": 10.5
+    },
+    {
+        "stock_id": "3645",
+        "stock_name": "達邁",
+        "revenue": 114.0,
+        "mom": 100.0,
+        "yoy": 52.63
+    },
+    {
+        "stock_id": "3652",
+        "stock_name": "精聯",
+        "revenue": 114.0,
+        "mom": 34.35,
+        "yoy": 24.54
+    },
+    {
+        "stock_id": "3669",
+        "stock_name": "圓展",
+        "revenue": 114.0,
+        "mom": 41.6,
+        "yoy": 22.86
+    },
+    {
+        "stock_id": "3673",
+        "stock_name": "TPK-KY",
+        "revenue": 114.0,
+        "mom": 87.6,
+        "yoy": 24.07
+    },
+    {
+        "stock_id": "3679",
+        "stock_name": "新至陞",
+        "revenue": 114.0,
+        "mom": 125.5,
+        "yoy": 14.78
+    },
+    {
+        "stock_id": "3686",
+        "stock_name": "達能",
+        "revenue": 114.0,
+        "mom": 17.4,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3694",
+        "stock_name": "海華",
+        "revenue": 114.0,
+        "mom": 68.1,
+        "yoy": 16.14
+    },
+    {
+        "stock_id": "3701",
+        "stock_name": "大眾控",
+        "revenue": 114.0,
+        "mom": 58.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3702",
+        "stock_name": "大聯大",
+        "revenue": 114.0,
+        "mom": 116.5,
+        "yoy": 14.22
+    },
+    {
+        "stock_id": "3703",
+        "stock_name": "欣陸",
+        "revenue": 114.0,
+        "mom": 21.5,
+        "yoy": 10.34
+    },
+    {
+        "stock_id": "3704",
+        "stock_name": "合勤控",
+        "revenue": 114.0,
+        "mom": 47.7,
+        "yoy": 41.48
+    },
+    {
+        "stock_id": "3705",
+        "stock_name": "永信",
+        "revenue": 114.0,
+        "mom": 56.9,
+        "yoy": 19.16
+    },
+    {
+        "stock_id": "3706",
+        "stock_name": "神達",
+        "revenue": 114.0,
+        "mom": 93.9,
+        "yoy": 17.92
+    },
+    {
+        "stock_id": "3708",
+        "stock_name": "上緯投控",
+        "revenue": 114.0,
+        "mom": 124.0,
+        "yoy": 3.03
+    },
+    {
+        "stock_id": "3711",
+        "stock_name": "日月光投控",
+        "revenue": 114.0,
+        "mom": 593.0,
+        "yoy": 55.06
+    },
+    {
+        "stock_id": "3712",
+        "stock_name": "永崴投控",
+        "revenue": 113.0,
+        "mom": 18.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3714",
+        "stock_name": "富采",
+        "revenue": 114.0,
+        "mom": 68.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "3715",
+        "stock_name": "定穎投控",
+        "revenue": 114.0,
+        "mom": 169.0,
+        "yoy": 174.23
+    },
+    {
+        "stock_id": "3716",
+        "stock_name": "中化控股",
+        "revenue": 114.0,
+        "mom": 35.4,
+        "yoy": 13.67
+    },
+    {
+        "stock_id": "3717",
+        "stock_name": "聯嘉投控",
+        "revenue": 114.0,
+        "mom": 22.85,
+        "yoy": 285.63
+    },
+    {
+        "stock_id": "4104",
+        "stock_name": "佳醫",
+        "revenue": 114.0,
+        "mom": 71.5,
+        "yoy": 16.51
+    },
+    {
+        "stock_id": "4106",
+        "stock_name": "雃博",
+        "revenue": 114.0,
+        "mom": 24.0,
+        "yoy": 16.78
+    },
+    {
+        "stock_id": "4108",
+        "stock_name": "懷特",
+        "revenue": 113.0,
+        "mom": 12.4,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4119",
+        "stock_name": "旭富",
+        "revenue": 114.0,
+        "mom": 40.9,
+        "yoy": 51.13
+    },
+    {
+        "stock_id": "4133",
+        "stock_name": "亞諾法",
+        "revenue": 114.0,
+        "mom": 21.6,
+        "yoy": 720.0
+    },
+    {
+        "stock_id": "4137",
+        "stock_name": "麗豐-KY",
+        "revenue": 114.0,
+        "mom": 111.5,
+        "yoy": 14.19
+    },
+    {
+        "stock_id": "4142",
+        "stock_name": "國光生",
+        "revenue": 113.0,
+        "mom": 17.8,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4148",
+        "stock_name": "全宇生技-KY",
+        "revenue": 114.0,
+        "mom": 32.4,
+        "yoy": 15.0
+    },
+    {
+        "stock_id": "4155",
+        "stock_name": "訊映",
+        "revenue": 114.0,
+        "mom": 15.1,
+        "yoy": 19.36
+    },
+    {
+        "stock_id": "4164",
+        "stock_name": "承業醫",
+        "revenue": 114.0,
+        "mom": 30.2,
+        "yoy": 29.04
+    },
+    {
+        "stock_id": "4169",
+        "stock_name": "泰宗",
+        "revenue": 114.0,
+        "mom": 159.0,
+        "yoy": 496.88
+    },
+    {
+        "stock_id": "4178",
+        "stock_name": "永笙-KY",
+        "revenue": 114.0,
+        "mom": 18.9,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4190",
+        "stock_name": "佐登-KY",
+        "revenue": 114.0,
+        "mom": 24.8,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4195",
+        "stock_name": "基米-創",
+        "revenue": 114.0,
+        "mom": 17.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4306",
+        "stock_name": "炎洲",
+        "revenue": 114.0,
+        "mom": 15.0,
+        "yoy": 39.47
+    },
+    {
+        "stock_id": "4414",
+        "stock_name": "如興",
+        "revenue": 114.0,
+        "mom": 8.56,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4426",
+        "stock_name": "利勤",
+        "revenue": 113.0,
+        "mom": 9.4,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4438",
+        "stock_name": "廣越",
+        "revenue": 114.0,
+        "mom": 62.7,
+        "yoy": 15.87
+    },
+    {
+        "stock_id": "4439",
+        "stock_name": "冠星-KY",
+        "revenue": 114.0,
+        "mom": 90.8,
+        "yoy": 10.97
+    },
+    {
+        "stock_id": "4440",
+        "stock_name": "宜新實業",
+        "revenue": 114.0,
+        "mom": 18.25,
+        "yoy": 10.67
+    },
+    {
+        "stock_id": "4441",
+        "stock_name": "振大環球",
+        "revenue": 114.0,
+        "mom": 215.0,
+        "yoy": 15.08
+    },
+    {
+        "stock_id": "4526",
+        "stock_name": "東台",
+        "revenue": 114.0,
+        "mom": 44.05,
+        "yoy": 42.36
+    },
+    {
+        "stock_id": "4532",
+        "stock_name": "瑞智",
+        "revenue": 114.0,
+        "mom": 25.4,
+        "yoy": 13.88
+    },
+    {
+        "stock_id": "4536",
+        "stock_name": "拓凱",
+        "revenue": 114.0,
+        "mom": 162.5,
+        "yoy": 12.11
+    },
+    {
+        "stock_id": "4540",
+        "stock_name": "全球傳動",
+        "revenue": 113.0,
+        "mom": 70.9,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4545",
+        "stock_name": "銘鈺",
+        "revenue": 114.0,
+        "mom": 40.8,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4551",
+        "stock_name": "智伸科",
+        "revenue": 114.0,
+        "mom": 145.0,
+        "yoy": 21.74
+    },
+    {
+        "stock_id": "4552",
+        "stock_name": "力達-KY",
+        "revenue": 114.0,
+        "mom": 20.55,
+        "yoy": 13.34
+    },
+    {
+        "stock_id": "4555",
+        "stock_name": "氣立",
+        "revenue": 114.0,
+        "mom": 53.5,
+        "yoy": 232.61
+    },
+    {
+        "stock_id": "4557",
+        "stock_name": "永新-KY",
+        "revenue": 114.0,
+        "mom": 45.7,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4560",
+        "stock_name": "強信-KY",
+        "revenue": 114.0,
+        "mom": 32.95,
+        "yoy": 11.52
+    },
+    {
+        "stock_id": "4562",
+        "stock_name": "穎漢",
+        "revenue": 113.0,
+        "mom": 40.85,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4564",
+        "stock_name": "元翎",
+        "revenue": 113.0,
+        "mom": 16.05,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4566",
+        "stock_name": "時碩工業",
+        "revenue": 114.0,
+        "mom": 68.6,
+        "yoy": 74.57
+    },
+    {
+        "stock_id": "4569",
+        "stock_name": "六方科-KY",
+        "revenue": 114.0,
+        "mom": 169.5,
+        "yoy": 34.95
+    },
+    {
+        "stock_id": "4571",
+        "stock_name": "鈞興-KY",
+        "revenue": 114.0,
+        "mom": 191.5,
+        "yoy": 21.25
+    },
+    {
+        "stock_id": "4572",
+        "stock_name": "駐龍",
+        "revenue": 114.0,
+        "mom": 147.0,
+        "yoy": 55.47
+    },
+    {
+        "stock_id": "4576",
+        "stock_name": "大銀微系統",
+        "revenue": 114.0,
+        "mom": 229.0,
+        "yoy": 90.16
+    },
+    {
+        "stock_id": "4581",
+        "stock_name": "光隆精密-KY",
+        "revenue": 114.0,
+        "mom": 49.9,
+        "yoy": 11.94
+    },
+    {
+        "stock_id": "4582",
+        "stock_name": "聚恆-創",
+        "revenue": 114.0,
+        "mom": 26.3,
+        "yoy": 17.08
+    },
+    {
+        "stock_id": "4583",
+        "stock_name": "台灣精銳",
+        "revenue": 114.0,
+        "mom": 675.0,
+        "yoy": 59.21
+    },
+    {
+        "stock_id": "4585",
+        "stock_name": "達明",
+        "revenue": 114.0,
+        "mom": 342.0,
+        "yoy": 259.09
+    },
+    {
+        "stock_id": "4588",
+        "stock_name": "玖鼎電力",
+        "revenue": 114.0,
+        "mom": 62.8,
+        "yoy": 17.64
+    },
+    {
+        "stock_id": "4590",
+        "stock_name": "富田-創",
+        "revenue": 114.0,
+        "mom": 73.6,
+        "yoy": 28.98
+    },
+    {
+        "stock_id": "4720",
+        "stock_name": "德淵",
+        "revenue": 114.0,
+        "mom": 29.7,
+        "yoy": 48.69
+    },
+    {
+        "stock_id": "4722",
+        "stock_name": "國精化",
+        "revenue": 114.0,
+        "mom": 278.0,
+        "yoy": 164.5
+    },
+    {
+        "stock_id": "4736",
+        "stock_name": "泰博",
+        "revenue": 114.0,
+        "mom": 126.0,
+        "yoy": 6.9
+    },
+    {
+        "stock_id": "4737",
+        "stock_name": "華廣",
+        "revenue": 113.0,
+        "mom": 54.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4739",
+        "stock_name": "康普",
+        "revenue": 114.0,
+        "mom": 118.5,
+        "yoy": 36.92
+    },
+    {
+        "stock_id": "4746",
+        "stock_name": "台耀",
+        "revenue": 114.0,
+        "mom": 53.1,
+        "yoy": 18.83
+    },
+    {
+        "stock_id": "4755",
+        "stock_name": "三福化",
+        "revenue": 114.0,
+        "mom": 146.0,
+        "yoy": 40.44
+    },
+    {
+        "stock_id": "4763",
+        "stock_name": "材料*-KY",
+        "revenue": 114.0,
+        "mom": 44.75,
+        "yoy": 8.66
+    },
+    {
+        "stock_id": "4764",
+        "stock_name": "雙鍵",
+        "revenue": 114.0,
+        "mom": 286.0,
+        "yoy": 152.13
+    },
+    {
+        "stock_id": "4766",
+        "stock_name": "南寶",
+        "revenue": 114.0,
+        "mom": 374.0,
+        "yoy": 18.02
+    },
+    {
+        "stock_id": "4770",
+        "stock_name": "上品",
+        "revenue": 114.0,
+        "mom": 243.0,
+        "yoy": 24.01
+    },
+    {
+        "stock_id": "4771",
+        "stock_name": "望隼",
+        "revenue": 114.0,
+        "mom": 207.0,
+        "yoy": 15.94
+    },
+    {
+        "stock_id": "4807",
+        "stock_name": "日成-KY",
+        "revenue": 114.0,
+        "mom": 35.35,
+        "yoy": 25.8
+    },
+    {
+        "stock_id": "4904",
+        "stock_name": "遠傳",
+        "revenue": 114.0,
+        "mom": 102.0,
+        "yoy": 25.89
+    },
+    {
+        "stock_id": "4906",
+        "stock_name": "正文",
+        "revenue": 114.0,
+        "mom": 48.9,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4912",
+        "stock_name": "聯德控股-KY",
+        "revenue": 114.0,
+        "mom": 95.3,
+        "yoy": 43.52
+    },
+    {
+        "stock_id": "4915",
+        "stock_name": "致伸",
+        "revenue": 114.0,
+        "mom": 77.1,
+        "yoy": 14.63
+    },
+    {
+        "stock_id": "4916",
+        "stock_name": "事欣科",
+        "revenue": 114.0,
+        "mom": 122.5,
+        "yoy": 21.84
+    },
+    {
+        "stock_id": "4919",
+        "stock_name": "新唐",
+        "revenue": 113.0,
+        "mom": 194.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4927",
+        "stock_name": "泰鼎-KY",
+        "revenue": 114.0,
+        "mom": 53.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4930",
+        "stock_name": "燦星網",
+        "revenue": 114.0,
+        "mom": 18.3,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4934",
+        "stock_name": "太極",
+        "revenue": 114.0,
+        "mom": 17.1,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4935",
+        "stock_name": "茂林-KY",
+        "revenue": 114.0,
+        "mom": 41.0,
+        "yoy": 29.93
+    },
+    {
+        "stock_id": "4938",
+        "stock_name": "和碩",
+        "revenue": 114.0,
+        "mom": 97.0,
+        "yoy": 22.3
+    },
+    {
+        "stock_id": "4942",
+        "stock_name": "嘉彰",
+        "revenue": 114.0,
+        "mom": 38.55,
+        "yoy": 13.02
+    },
+    {
+        "stock_id": "4943",
+        "stock_name": "康控-KY",
+        "revenue": 113.0,
+        "mom": 8.95,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4949",
+        "stock_name": "有成精密",
+        "revenue": 114.0,
+        "mom": 98.4,
+        "yoy": 36.58
+    },
+    {
+        "stock_id": "4952",
+        "stock_name": "凌通",
+        "revenue": 114.0,
+        "mom": 50.7,
+        "yoy": 45.68
+    },
+    {
+        "stock_id": "4956",
+        "stock_name": "光鋐",
+        "revenue": 113.0,
+        "mom": 43.75,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4958",
+        "stock_name": "臻鼎-KY",
+        "revenue": 114.0,
+        "mom": 492.5,
+        "yoy": 69.46
+    },
+    {
+        "stock_id": "4960",
+        "stock_name": "誠美材",
+        "revenue": 113.0,
+        "mom": 32.7,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4961",
+        "stock_name": "天鈺",
+        "revenue": 114.0,
+        "mom": 168.0,
+        "yoy": 20.14
+    },
+    {
+        "stock_id": "4967",
+        "stock_name": "十銓",
+        "revenue": 114.0,
+        "mom": 302.0,
+        "yoy": 7.73
+    },
+    {
+        "stock_id": "4968",
+        "stock_name": "立積",
+        "revenue": 114.0,
+        "mom": 116.5,
+        "yoy": 39.36
+    },
+    {
+        "stock_id": "4976",
+        "stock_name": "佳凌",
+        "revenue": 113.0,
+        "mom": 34.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4977",
+        "stock_name": "眾達-KY",
+        "revenue": 114.0,
+        "mom": 209.0,
+        "yoy": 46.34
+    },
+    {
+        "stock_id": "4989",
+        "stock_name": "榮科",
+        "revenue": 113.0,
+        "mom": 92.4,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "4994",
+        "stock_name": "傳奇",
+        "revenue": 114.0,
+        "mom": 86.8,
+        "yoy": 55.64
+    },
+    {
+        "stock_id": "4999",
+        "stock_name": "鑫禾",
+        "revenue": 114.0,
+        "mom": 22.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "5007",
+        "stock_name": "三星",
+        "revenue": 114.0,
+        "mom": 57.7,
+        "yoy": 18.98
+    },
+    {
+        "stock_id": "5203",
+        "stock_name": "訊連",
+        "revenue": 114.0,
+        "mom": 72.0,
+        "yoy": 19.67
+    },
+    {
+        "stock_id": "5215",
+        "stock_name": "科嘉-KY",
+        "revenue": 114.0,
+        "mom": 48.75,
+        "yoy": 19.9
+    },
+    {
+        "stock_id": "5222",
+        "stock_name": "全訊",
+        "revenue": 114.0,
+        "mom": 123.0,
+        "yoy": 65.78
+    },
+    {
+        "stock_id": "5225",
+        "stock_name": "東科-KY",
+        "revenue": 114.0,
+        "mom": 78.9,
+        "yoy": 8.53
+    },
+    {
+        "stock_id": "5234",
+        "stock_name": "達興材料",
+        "revenue": 114.0,
+        "mom": 391.0,
+        "yoy": 50.78
+    },
+    {
+        "stock_id": "5243",
+        "stock_name": "乙盛-KY",
+        "revenue": 114.0,
+        "mom": 119.0,
+        "yoy": 24.44
+    },
+    {
+        "stock_id": "5244",
+        "stock_name": "弘凱",
+        "revenue": 114.0,
+        "mom": 39.45,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "5258",
+        "stock_name": "虹堡",
+        "revenue": 114.0,
+        "mom": 51.0,
+        "yoy": 15.22
+    },
+    {
+        "stock_id": "5283",
+        "stock_name": "禾聯碩",
+        "revenue": 114.0,
+        "mom": 53.2,
+        "yoy": 9.0
+    },
+    {
+        "stock_id": "5284",
+        "stock_name": "jpp-KY",
+        "revenue": 114.0,
+        "mom": 416.5,
+        "yoy": 31.08
+    },
+    {
+        "stock_id": "5285",
+        "stock_name": "界霖",
+        "revenue": 114.0,
+        "mom": 99.3,
+        "yoy": 47.29
+    },
+    {
+        "stock_id": "5288",
+        "stock_name": "豐祥-KY",
+        "revenue": 114.0,
+        "mom": 166.5,
+        "yoy": 13.84
+    },
+    {
+        "stock_id": "5292",
+        "stock_name": "華懋",
+        "revenue": 114.0,
+        "mom": 225.0,
+        "yoy": 22.26
+    },
+    {
+        "stock_id": "5306",
+        "stock_name": "桂盟",
+        "revenue": 114.0,
+        "mom": 84.5,
+        "yoy": 13.33
+    },
+    {
+        "stock_id": "5388",
+        "stock_name": "中磊",
+        "revenue": 114.0,
+        "mom": 88.9,
+        "yoy": 22.23
+    },
+    {
+        "stock_id": "5434",
+        "stock_name": "崇越",
+        "revenue": 114.0,
+        "mom": 464.5,
+        "yoy": 19.71
+    },
+    {
+        "stock_id": "5469",
+        "stock_name": "瀚宇博",
+        "revenue": 114.0,
+        "mom": 85.6,
+        "yoy": 14.94
+    },
+    {
+        "stock_id": "5471",
+        "stock_name": "松翰",
+        "revenue": 114.0,
+        "mom": 51.7,
+        "yoy": 53.3
+    },
+    {
+        "stock_id": "5484",
+        "stock_name": "慧友",
+        "revenue": 114.0,
+        "mom": 54.1,
+        "yoy": 146.22
+    },
+    {
+        "stock_id": "5515",
+        "stock_name": "建國",
+        "revenue": 114.0,
+        "mom": 41.1,
+        "yoy": 6.88
+    },
+    {
+        "stock_id": "5519",
+        "stock_name": "隆大",
+        "revenue": 114.0,
+        "mom": 32.3,
+        "yoy": 6.47
+    },
+    {
+        "stock_id": "5521",
+        "stock_name": "工信",
+        "revenue": 114.0,
+        "mom": 10.5,
+        "yoy": 15.91
+    },
+    {
+        "stock_id": "5522",
+        "stock_name": "遠雄",
+        "revenue": 114.0,
+        "mom": 74.4,
+        "yoy": 7.86
+    },
+    {
+        "stock_id": "5525",
+        "stock_name": "順天",
+        "revenue": 114.0,
+        "mom": 22.15,
+        "yoy": 8.82
+    },
+    {
+        "stock_id": "5531",
+        "stock_name": "鄉林",
+        "revenue": 113.0,
+        "mom": 8.1,
+        "yoy": 162.0
+    },
+    {
+        "stock_id": "5533",
+        "stock_name": "皇鼎",
+        "revenue": 114.0,
+        "mom": 14.05,
+        "yoy": 23.42
+    },
+    {
+        "stock_id": "5534",
+        "stock_name": "長虹",
+        "revenue": 114.0,
+        "mom": 74.2,
+        "yoy": 15.14
+    },
+    {
+        "stock_id": "5538",
+        "stock_name": "東明-KY",
+        "revenue": 114.0,
+        "mom": 35.2,
+        "yoy": 10.2
+    },
+    {
+        "stock_id": "5546",
+        "stock_name": "永固-KY",
+        "revenue": 114.0,
+        "mom": 17.1,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "5607",
+        "stock_name": "遠雄港",
+        "revenue": 114.0,
+        "mom": 52.9,
+        "yoy": 16.28
+    },
+    {
+        "stock_id": "5608",
+        "stock_name": "四維航",
+        "revenue": 113.0,
+        "mom": 14.95,
+        "yoy": 65.0
+    },
+    {
+        "stock_id": "5706",
+        "stock_name": "鳳凰",
+        "revenue": 114.0,
+        "mom": 53.5,
+        "yoy": 15.03
+    },
+    {
+        "stock_id": "5871",
+        "stock_name": "中租-KY",
+        "revenue": 114.0,
+        "mom": 119.0,
+        "yoy": 11.14
+    },
+    {
+        "stock_id": "5876",
+        "stock_name": "上海商銀",
+        "revenue": 114.0,
+        "mom": 40.75,
+        "yoy": 12.94
+    },
+    {
+        "stock_id": "5880",
+        "stock_name": "合庫金",
+        "revenue": 114.0,
+        "mom": 23.7,
+        "yoy": 16.93
+    },
+    {
+        "stock_id": "5906",
+        "stock_name": "台南-KY",
+        "revenue": 114.0,
+        "mom": 0.0,
+        "yoy": 64.58
+    },
+    {
+        "stock_id": "5907",
+        "stock_name": "大洋-KY",
+        "revenue": 113.0,
+        "mom": 5.28,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6005",
+        "stock_name": "群益證",
+        "revenue": 114.0,
+        "mom": 42.45,
+        "yoy": 11.86
+    },
+    {
+        "stock_id": "6024",
+        "stock_name": "群益期",
+        "revenue": 114.0,
+        "mom": 60.1,
+        "yoy": 10.07
+    },
+    {
+        "stock_id": "6108",
+        "stock_name": "競國",
+        "revenue": 114.0,
+        "mom": 19.4,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6112",
+        "stock_name": "邁達特",
+        "revenue": 114.0,
+        "mom": 47.7,
+        "yoy": 28.06
+    },
+    {
+        "stock_id": "6115",
+        "stock_name": "鎰勝",
+        "revenue": 114.0,
+        "mom": 49.9,
+        "yoy": 17.57
+    },
+    {
+        "stock_id": "6116",
+        "stock_name": "彩晶",
+        "revenue": 114.0,
+        "mom": 20.45,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6117",
+        "stock_name": "迎廣",
+        "revenue": 114.0,
+        "mom": 85.1,
+        "yoy": 18.5
+    },
+    {
+        "stock_id": "6120",
+        "stock_name": "達運",
+        "revenue": 114.0,
+        "mom": 15.85,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6128",
+        "stock_name": "上福",
+        "revenue": 114.0,
+        "mom": 21.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6133",
+        "stock_name": "金橋",
+        "revenue": 114.0,
+        "mom": 24.8,
+        "yoy": 33.97
+    },
+    {
+        "stock_id": "6136",
+        "stock_name": "富爾特",
+        "revenue": 114.0,
+        "mom": 26.55,
+        "yoy": 31.61
+    },
+    {
+        "stock_id": "6139",
+        "stock_name": "亞翔",
+        "revenue": 114.0,
+        "mom": 825.0,
+        "yoy": 22.9
+    },
+    {
+        "stock_id": "6141",
+        "stock_name": "柏承",
+        "revenue": 113.0,
+        "mom": 39.4,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6142",
+        "stock_name": "友勁",
+        "revenue": 113.0,
+        "mom": 8.8,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6152",
+        "stock_name": "百一",
+        "revenue": 113.0,
+        "mom": 15.25,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6153",
+        "stock_name": "嘉聯益",
+        "revenue": 113.0,
+        "mom": 18.45,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6155",
+        "stock_name": "鈞寶",
+        "revenue": 114.0,
+        "mom": 72.1,
+        "yoy": 144.2
+    },
+    {
+        "stock_id": "6164",
+        "stock_name": "華興",
+        "revenue": 114.0,
+        "mom": 13.0,
+        "yoy": 650.0
+    },
+    {
+        "stock_id": "6165",
+        "stock_name": "浪凡",
+        "revenue": 114.0,
+        "mom": 49.1,
+        "yoy": 11.77
+    },
+    {
+        "stock_id": "6166",
+        "stock_name": "凌華",
+        "revenue": 114.0,
+        "mom": 129.5,
+        "yoy": 35.87
+    },
+    {
+        "stock_id": "6168",
+        "stock_name": "宏齊",
+        "revenue": 113.0,
+        "mom": 26.55,
+        "yoy": 379.29
+    },
+    {
+        "stock_id": "6176",
+        "stock_name": "瑞儀",
+        "revenue": 114.0,
+        "mom": 101.5,
+        "yoy": 10.83
+    },
+    {
+        "stock_id": "6177",
+        "stock_name": "達麗",
+        "revenue": 114.0,
+        "mom": 44.65,
+        "yoy": 5.98
+    },
+    {
+        "stock_id": "6183",
+        "stock_name": "關貿",
+        "revenue": 114.0,
+        "mom": 90.9,
+        "yoy": 22.44
+    },
+    {
+        "stock_id": "6184",
+        "stock_name": "大豐電",
+        "revenue": 114.0,
+        "mom": 47.05,
+        "yoy": 19.85
+    },
+    {
+        "stock_id": "6189",
+        "stock_name": "豐藝",
+        "revenue": 114.0,
+        "mom": 52.8,
+        "yoy": 20.08
+    },
+    {
+        "stock_id": "6191",
+        "stock_name": "精成科",
+        "revenue": 114.0,
+        "mom": 98.2,
+        "yoy": 15.3
+    },
+    {
+        "stock_id": "6192",
+        "stock_name": "巨路",
+        "revenue": 114.0,
+        "mom": 128.5,
+        "yoy": 13.15
+    },
+    {
+        "stock_id": "6196",
+        "stock_name": "帆宣",
+        "revenue": 114.0,
+        "mom": 504.0,
+        "yoy": 32.1
+    },
+    {
+        "stock_id": "6197",
+        "stock_name": "佳必琪",
+        "revenue": 114.0,
+        "mom": 316.5,
+        "yoy": 30.88
+    },
+    {
+        "stock_id": "6201",
+        "stock_name": "亞弘電",
+        "revenue": 114.0,
+        "mom": 49.3,
+        "yoy": 14.98
+    },
+    {
+        "stock_id": "6202",
+        "stock_name": "盛群",
+        "revenue": 114.0,
+        "mom": 57.4,
+        "yoy": 86.97
+    },
+    {
+        "stock_id": "6205",
+        "stock_name": "詮欣",
+        "revenue": 114.0,
+        "mom": 86.0,
+        "yoy": 51.19
+    },
+    {
+        "stock_id": "6206",
+        "stock_name": "飛捷",
+        "revenue": 114.0,
+        "mom": 140.0,
+        "yoy": 19.64
+    },
+    {
+        "stock_id": "6209",
+        "stock_name": "今國光",
+        "revenue": 114.0,
+        "mom": 84.7,
+        "yoy": 48.96
+    },
+    {
+        "stock_id": "6213",
+        "stock_name": "聯茂",
+        "revenue": 114.0,
+        "mom": 260.5,
+        "yoy": 63.69
+    },
+    {
+        "stock_id": "6214",
+        "stock_name": "精誠",
+        "revenue": 114.0,
+        "mom": 150.0,
+        "yoy": 15.72
+    },
+    {
+        "stock_id": "6215",
+        "stock_name": "和椿",
+        "revenue": 114.0,
+        "mom": 117.0,
+        "yoy": 41.05
+    },
+    {
+        "stock_id": "6216",
+        "stock_name": "居易",
+        "revenue": 114.0,
+        "mom": 23.75,
+        "yoy": 395.83
+    },
+    {
+        "stock_id": "6224",
+        "stock_name": "聚鼎",
+        "revenue": 114.0,
+        "mom": 80.6,
+        "yoy": 92.64
+    },
+    {
+        "stock_id": "6225",
+        "stock_name": "天瀚",
+        "revenue": 114.0,
+        "mom": 22.95,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6226",
+        "stock_name": "光鼎",
+        "revenue": 113.0,
+        "mom": 13.6,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6230",
+        "stock_name": "尼得科超眾",
+        "revenue": 113.0,
+        "mom": 142.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6235",
+        "stock_name": "華孚",
+        "revenue": 114.0,
+        "mom": 45.1,
+        "yoy": 17.41
+    },
+    {
+        "stock_id": "6239",
+        "stock_name": "力成",
+        "revenue": 114.0,
+        "mom": 354.0,
+        "yoy": 42.14
+    },
+    {
+        "stock_id": "6243",
+        "stock_name": "迅杰",
+        "revenue": 113.0,
+        "mom": 33.75,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6257",
+        "stock_name": "矽格",
+        "revenue": 114.0,
+        "mom": 228.0,
+        "yoy": 34.08
+    },
+    {
+        "stock_id": "6269",
+        "stock_name": "台郡",
+        "revenue": 113.0,
+        "mom": 71.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6271",
+        "stock_name": "同欣電",
+        "revenue": 114.0,
+        "mom": 243.5,
+        "yoy": 36.13
+    },
+    {
+        "stock_id": "6272",
+        "stock_name": "驊陞",
+        "revenue": 114.0,
+        "mom": 39.6,
+        "yoy": 16.36
+    },
+    {
+        "stock_id": "6277",
+        "stock_name": "宏正",
+        "revenue": 114.0,
+        "mom": 78.9,
+        "yoy": 24.28
+    },
+    {
+        "stock_id": "6278",
+        "stock_name": "台表科",
+        "revenue": 114.0,
+        "mom": 212.0,
+        "yoy": 24.2
+    },
+    {
+        "stock_id": "6281",
+        "stock_name": "全國電",
+        "revenue": 114.0,
+        "mom": 51.5,
+        "yoy": 13.81
+    },
+    {
+        "stock_id": "6282",
+        "stock_name": "康舒",
+        "revenue": 114.0,
+        "mom": 70.8,
+        "yoy": 141.6
+    },
+    {
+        "stock_id": "6283",
+        "stock_name": "淳安",
+        "revenue": 113.0,
+        "mom": 25.3,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6285",
+        "stock_name": "啟碁",
+        "revenue": 114.0,
+        "mom": 296.0,
+        "yoy": 43.66
+    },
+    {
+        "stock_id": "6405",
+        "stock_name": "悅城",
+        "revenue": 113.0,
+        "mom": 79.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6409",
+        "stock_name": "旭隼",
+        "revenue": 114.0,
+        "mom": 844.0,
+        "yoy": 24.18
+    },
+    {
+        "stock_id": "6412",
+        "stock_name": "群電",
+        "revenue": 114.0,
+        "mom": 103.0,
+        "yoy": 19.81
+    },
+    {
+        "stock_id": "6414",
+        "stock_name": "樺漢",
+        "revenue": 114.0,
+        "mom": 389.5,
+        "yoy": 18.1
+    },
+    {
+        "stock_id": "6415",
+        "stock_name": "矽力*-KY",
+        "revenue": 114.0,
+        "mom": 570.0,
+        "yoy": 76.61
+    },
+    {
+        "stock_id": "6416",
+        "stock_name": "瑞祺電通",
+        "revenue": 114.0,
+        "mom": 89.4,
+        "yoy": 19.65
+    },
+    {
+        "stock_id": "6426",
+        "stock_name": "統新",
+        "revenue": 114.0,
+        "mom": 242.5,
+        "yoy": 466.35
+    },
+    {
+        "stock_id": "6431",
+        "stock_name": "光麗-KY",
+        "revenue": 113.0,
+        "mom": 18.35,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6438",
+        "stock_name": "迅得",
+        "revenue": 114.0,
+        "mom": 161.5,
+        "yoy": 29.58
+    },
+    {
+        "stock_id": "6443",
+        "stock_name": "元晶",
+        "revenue": 114.0,
+        "mom": 41.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6446",
+        "stock_name": "藥華藥",
+        "revenue": 114.0,
+        "mom": 938.0,
+        "yoy": 58.81
+    },
+    {
+        "stock_id": "6449",
+        "stock_name": "鈺邦",
+        "revenue": 114.0,
+        "mom": 385.0,
+        "yoy": 50.07
+    },
+    {
+        "stock_id": "6451",
+        "stock_name": "訊芯-KY",
+        "revenue": 114.0,
+        "mom": 680.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6456",
+        "stock_name": "GIS-KY",
+        "revenue": 113.0,
+        "mom": 86.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6464",
+        "stock_name": "台數科",
+        "revenue": 114.0,
+        "mom": 78.0,
+        "yoy": 19.16
+    },
+    {
+        "stock_id": "6472",
+        "stock_name": "保瑞",
+        "revenue": 114.0,
+        "mom": 363.0,
+        "yoy": 28.76
+    },
+    {
+        "stock_id": "6477",
+        "stock_name": "安集",
+        "revenue": 114.0,
+        "mom": 34.35,
+        "yoy": 381.67
+    },
+    {
+        "stock_id": "6491",
+        "stock_name": "晶碩",
+        "revenue": 114.0,
+        "mom": 328.0,
+        "yoy": 15.77
+    },
+    {
+        "stock_id": "6504",
+        "stock_name": "南六",
+        "revenue": 114.0,
+        "mom": 37.35,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6505",
+        "stock_name": "台塑化",
+        "revenue": 114.0,
+        "mom": 57.5,
+        "yoy": 20.61
+    },
+    {
+        "stock_id": "6525",
+        "stock_name": "捷敏-KY",
+        "revenue": 114.0,
+        "mom": 119.5,
+        "yoy": 19.69
+    },
+    {
+        "stock_id": "6526",
+        "stock_name": "達發",
+        "revenue": 114.0,
+        "mom": 687.0,
+        "yoy": 39.44
+    },
+    {
+        "stock_id": "6533",
+        "stock_name": "晶心科",
+        "revenue": 113.0,
+        "mom": 225.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6534",
+        "stock_name": "正瀚-創",
+        "revenue": 114.0,
+        "mom": 91.3,
+        "yoy": 19.1
+    },
+    {
+        "stock_id": "6541",
+        "stock_name": "泰福-KY",
+        "revenue": 113.0,
+        "mom": 41.15,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6550",
+        "stock_name": "北極星藥業-KY",
+        "revenue": 114.0,
+        "mom": 13.1,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6552",
+        "stock_name": "易華電",
+        "revenue": 114.0,
+        "mom": 33.85,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6558",
+        "stock_name": "興能高",
+        "revenue": 114.0,
+        "mom": 34.05,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6573",
+        "stock_name": "虹揚-KY",
+        "revenue": 113.0,
+        "mom": 16.65,
+        "yoy": 12.71
+    },
+    {
+        "stock_id": "6579",
+        "stock_name": "研揚",
+        "revenue": 114.0,
+        "mom": 163.5,
+        "yoy": 30.0
+    },
+    {
+        "stock_id": "6581",
+        "stock_name": "鋼聯",
+        "revenue": 114.0,
+        "mom": 109.5,
+        "yoy": 18.07
+    },
+    {
+        "stock_id": "6582",
+        "stock_name": "申豐",
+        "revenue": 114.0,
+        "mom": 32.25,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6585",
+        "stock_name": "鼎基",
+        "revenue": 114.0,
+        "mom": 109.0,
+        "yoy": 22.24
+    },
+    {
+        "stock_id": "6589",
+        "stock_name": "台康生技",
+        "revenue": 113.0,
+        "mom": 44.9,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6591",
+        "stock_name": "動力-KY",
+        "revenue": 114.0,
+        "mom": 59.1,
+        "yoy": 13.78
+    },
+    {
+        "stock_id": "6592",
+        "stock_name": "和潤企業",
+        "revenue": 114.0,
+        "mom": 64.4,
+        "yoy": 13.09
+    },
+    {
+        "stock_id": "6598",
+        "stock_name": "ABC-KY",
+        "revenue": 113.0,
+        "mom": 24.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6605",
+        "stock_name": "帝寶",
+        "revenue": 114.0,
+        "mom": 143.5,
+        "yoy": 10.76
+    },
+    {
+        "stock_id": "6606",
+        "stock_name": "建德工業",
+        "revenue": 114.0,
+        "mom": 26.6,
+        "yoy": 24.4
+    },
+    {
+        "stock_id": "6614",
+        "stock_name": "資拓宏宇",
+        "revenue": 114.0,
+        "mom": 40.0,
+        "yoy": 16.06
+    },
+    {
+        "stock_id": "6625",
+        "stock_name": "必應",
+        "revenue": 114.0,
+        "mom": 74.7,
+        "yoy": 7.45
+    },
+    {
+        "stock_id": "6641",
+        "stock_name": "基士德-KY",
+        "revenue": 114.0,
+        "mom": 19.05,
+        "yoy": 39.69
+    },
+    {
+        "stock_id": "6645",
+        "stock_name": "金萬林-創",
+        "revenue": 114.0,
+        "mom": 11.8,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6655",
+        "stock_name": "科定",
+        "revenue": 114.0,
+        "mom": 128.0,
+        "yoy": 31.53
+    },
+    {
+        "stock_id": "6657",
+        "stock_name": "華安",
+        "revenue": 114.0,
+        "mom": 39.55,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6658",
+        "stock_name": "聯策",
+        "revenue": 114.0,
+        "mom": 203.0,
+        "yoy": 77.78
+    },
+    {
+        "stock_id": "6666",
+        "stock_name": "羅麗芬-KY",
+        "revenue": 114.0,
+        "mom": 40.65,
+        "yoy": 18.82
+    },
+    {
+        "stock_id": "6668",
+        "stock_name": "中揚光",
+        "revenue": 113.0,
+        "mom": 38.55,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6670",
+        "stock_name": "復盛應用",
+        "revenue": 114.0,
+        "mom": 280.0,
+        "yoy": 13.59
+    },
+    {
+        "stock_id": "6671",
+        "stock_name": "三能-KY",
+        "revenue": 114.0,
+        "mom": 26.9,
+        "yoy": 11.9
+    },
+    {
+        "stock_id": "6672",
+        "stock_name": "騰輝電子-KY",
+        "revenue": 114.0,
+        "mom": 222.0,
+        "yoy": 40.14
+    },
+    {
+        "stock_id": "6674",
+        "stock_name": "鋐寶科技",
+        "revenue": 113.0,
+        "mom": 18.45,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6689",
+        "stock_name": "伊雲谷",
+        "revenue": 114.0,
+        "mom": 74.3,
+        "yoy": 32.88
+    },
+    {
+        "stock_id": "6691",
+        "stock_name": "洋基工程",
+        "revenue": 114.0,
+        "mom": 635.0,
+        "yoy": 23.53
+    },
+    {
+        "stock_id": "6695",
+        "stock_name": "芯鼎",
+        "revenue": 114.0,
+        "mom": 53.1,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6698",
+        "stock_name": "旭暉應材",
+        "revenue": 114.0,
+        "mom": 44.75,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6706",
+        "stock_name": "惠特",
+        "revenue": 113.0,
+        "mom": 194.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6715",
+        "stock_name": "嘉基",
+        "revenue": 114.0,
+        "mom": 455.0,
+        "yoy": 215.64
+    },
+    {
+        "stock_id": "6719",
+        "stock_name": "力智",
+        "revenue": 114.0,
+        "mom": 234.5,
+        "yoy": 32.66
+    },
+    {
+        "stock_id": "6722",
+        "stock_name": "輝創",
+        "revenue": 114.0,
+        "mom": 39.75,
+        "yoy": 16.09
+    },
+    {
+        "stock_id": "6742",
+        "stock_name": "澤米",
+        "revenue": 113.0,
+        "mom": 63.6,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6743",
+        "stock_name": "安普新",
+        "revenue": 114.0,
+        "mom": 30.3,
+        "yoy": 36.95
+    },
+    {
+        "stock_id": "6753",
+        "stock_name": "龍德造船",
+        "revenue": 114.0,
+        "mom": 124.0,
+        "yoy": 17.44
+    },
+    {
+        "stock_id": "6754",
+        "stock_name": "匯僑設計",
+        "revenue": 114.0,
+        "mom": 46.1,
+        "yoy": 14.23
+    },
+    {
+        "stock_id": "6756",
+        "stock_name": "威鋒電子",
+        "revenue": 114.0,
+        "mom": 97.0,
+        "yoy": 63.82
+    },
+    {
+        "stock_id": "6757",
+        "stock_name": "台灣虎航",
+        "revenue": 114.0,
+        "mom": 54.2,
+        "yoy": 8.71
+    },
+    {
+        "stock_id": "6768",
+        "stock_name": "志強-KY",
+        "revenue": 114.0,
+        "mom": 95.7,
+        "yoy": 18.13
+    },
+    {
+        "stock_id": "6770",
+        "stock_name": "力積電",
+        "revenue": 114.0,
+        "mom": 81.0,
+        "yoy": 45.76
+    },
+    {
+        "stock_id": "6771",
+        "stock_name": "平和環保-創",
+        "revenue": 114.0,
+        "mom": 41.45,
+        "yoy": 13.91
+    },
+    {
+        "stock_id": "6776",
+        "stock_name": "展碁國際",
+        "revenue": 114.0,
+        "mom": 60.3,
+        "yoy": 15.0
+    },
+    {
+        "stock_id": "6782",
+        "stock_name": "視陽",
+        "revenue": 114.0,
+        "mom": 200.0,
+        "yoy": 13.5
+    },
+    {
+        "stock_id": "6789",
+        "stock_name": "采鈺",
+        "revenue": 114.0,
+        "mom": 524.0,
+        "yoy": 112.69
+    },
+    {
+        "stock_id": "6790",
+        "stock_name": "永豐實",
+        "revenue": 114.0,
+        "mom": 40.0,
+        "yoy": 13.03
+    },
+    {
+        "stock_id": "6792",
+        "stock_name": "詠業",
+        "revenue": 114.0,
+        "mom": 69.8,
+        "yoy": 31.02
+    },
+    {
+        "stock_id": "6794",
+        "stock_name": "向榮生技",
+        "revenue": 114.0,
+        "mom": 83.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6796",
+        "stock_name": "晉弘",
+        "revenue": 114.0,
+        "mom": 62.7,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6799",
+        "stock_name": "來頡",
+        "revenue": 114.0,
+        "mom": 97.0,
+        "yoy": 26.72
+    },
+    {
+        "stock_id": "6806",
+        "stock_name": "森崴能源",
+        "revenue": 113.0,
+        "mom": 6.26,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6807",
+        "stock_name": "峰源-KY",
+        "revenue": 114.0,
+        "mom": 33.85,
+        "yoy": 9.93
+    },
+    {
+        "stock_id": "6830",
+        "stock_name": "汎銓",
+        "revenue": 114.0,
+        "mom": 676.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6831",
+        "stock_name": "邁科",
+        "revenue": 114.0,
+        "mom": 721.0,
+        "yoy": 146.54
+    },
+    {
+        "stock_id": "6834",
+        "stock_name": "天二科技",
+        "revenue": 114.0,
+        "mom": 72.0,
+        "yoy": 118.03
+    },
+    {
+        "stock_id": "6835",
+        "stock_name": "圓裕",
+        "revenue": 114.0,
+        "mom": 37.5,
+        "yoy": 288.46
+    },
+    {
+        "stock_id": "6838",
+        "stock_name": "台新藥",
+        "revenue": 114.0,
+        "mom": 25.7,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6854",
+        "stock_name": "錼創科技-KY創",
+        "revenue": 113.0,
+        "mom": 143.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6861",
+        "stock_name": "睿生光電",
+        "revenue": 114.0,
+        "mom": 348.5,
+        "yoy": 70.83
+    },
+    {
+        "stock_id": "6862",
+        "stock_name": "三集瑞-KY",
+        "revenue": 114.0,
+        "mom": 186.0,
+        "yoy": 30.49
+    },
+    {
+        "stock_id": "6863",
+        "stock_name": "永道-KY",
+        "revenue": 114.0,
+        "mom": 106.5,
+        "yoy": 97.71
+    },
+    {
+        "stock_id": "6869",
+        "stock_name": "雲豹能源",
+        "revenue": 114.0,
+        "mom": 88.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6873",
+        "stock_name": "泓德能源",
+        "revenue": 114.0,
+        "mom": 98.6,
+        "yoy": 30.72
+    },
+    {
+        "stock_id": "6885",
+        "stock_name": "全福生技",
+        "revenue": 113.0,
+        "mom": 24.15,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6887",
+        "stock_name": "寶綠特-KY",
+        "revenue": 114.0,
+        "mom": 35.65,
+        "yoy": 15.04
+    },
+    {
+        "stock_id": "6890",
+        "stock_name": "來億-KY",
+        "revenue": 114.0,
+        "mom": 231.5,
+        "yoy": 22.9
+    },
+    {
+        "stock_id": "6901",
+        "stock_name": "鑽石投資",
+        "revenue": 113.0,
+        "mom": 14.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6902",
+        "stock_name": "GOGOLOOK",
+        "revenue": 114.0,
+        "mom": 144.0,
+        "yoy": 49.15
+    },
+    {
+        "stock_id": "6906",
+        "stock_name": "現觀科",
+        "revenue": 114.0,
+        "mom": 103.5,
+        "yoy": 52.27
+    },
+    {
+        "stock_id": "6908",
+        "stock_name": "宏碁遊戲-創",
+        "revenue": 114.0,
+        "mom": 40.5,
+        "yoy": 29.78
+    },
+    {
+        "stock_id": "6909",
+        "stock_name": "創控",
+        "revenue": 114.0,
+        "mom": 48.25,
+        "yoy": 59.57
+    },
+    {
+        "stock_id": "6914",
+        "stock_name": "阜爾運通",
+        "revenue": 114.0,
+        "mom": 142.0,
+        "yoy": 14.52
+    },
+    {
+        "stock_id": "6916",
+        "stock_name": "華凌",
+        "revenue": 113.0,
+        "mom": 19.1,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6918",
+        "stock_name": "愛派司",
+        "revenue": 114.0,
+        "mom": 74.0,
+        "yoy": 14.57
+    },
+    {
+        "stock_id": "6919",
+        "stock_name": "康霈*",
+        "revenue": 114.0,
+        "mom": 96.4,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6921",
+        "stock_name": "嘉雨思-創",
+        "revenue": 113.0,
+        "mom": 73.0,
+        "yoy": 214.71
+    },
+    {
+        "stock_id": "6923",
+        "stock_name": "中台",
+        "revenue": 114.0,
+        "mom": 79.3,
+        "yoy": 25.83
+    },
+    {
+        "stock_id": "6924",
+        "stock_name": "榮惠-KY創",
+        "revenue": 114.0,
+        "mom": 169.5,
+        "yoy": 25.41
+    },
+    {
+        "stock_id": "6928",
+        "stock_name": "攸泰科技",
+        "revenue": 113.0,
+        "mom": 47.3,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6931",
+        "stock_name": "青松健康",
+        "revenue": 114.0,
+        "mom": 41.0,
+        "yoy": 21.24
+    },
+    {
+        "stock_id": "6933",
+        "stock_name": "AMAX-KY",
+        "revenue": 114.0,
+        "mom": 174.0,
+        "yoy": 29.19
+    },
+    {
+        "stock_id": "6934",
+        "stock_name": "心誠鎂",
+        "revenue": 113.0,
+        "mom": 73.4,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6936",
+        "stock_name": "永鴻生技",
+        "revenue": 114.0,
+        "mom": 33.7,
+        "yoy": 17.83
+    },
+    {
+        "stock_id": "6937",
+        "stock_name": "天虹",
+        "revenue": 114.0,
+        "mom": 297.0,
+        "yoy": 91.67
+    },
+    {
+        "stock_id": "6944",
+        "stock_name": "兆聯實業",
+        "revenue": 114.0,
+        "mom": 934.0,
+        "yoy": 26.28
+    },
+    {
+        "stock_id": "6949",
+        "stock_name": "沛爾生醫-創",
+        "revenue": 113.0,
+        "mom": 645.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6951",
+        "stock_name": "青新-創",
+        "revenue": 114.0,
+        "mom": 82.9,
+        "yoy": 14.42
+    },
+    {
+        "stock_id": "6952",
+        "stock_name": "大武山",
+        "revenue": 114.0,
+        "mom": 36.15,
+        "yoy": 46.95
+    },
+    {
+        "stock_id": "6955",
+        "stock_name": "邦睿生技-創",
+        "revenue": 114.0,
+        "mom": 146.0,
+        "yoy": 35.35
+    },
+    {
+        "stock_id": "6957",
+        "stock_name": "裕慶-KY",
+        "revenue": 114.0,
+        "mom": 194.0,
+        "yoy": 18.37
+    },
+    {
+        "stock_id": "6958",
+        "stock_name": "日盛台駿",
+        "revenue": 114.0,
+        "mom": 17.2,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6962",
+        "stock_name": "奕力-KY",
+        "revenue": 114.0,
+        "mom": 36.75,
+        "yoy": 25.17
+    },
+    {
+        "stock_id": "6965",
+        "stock_name": "中傑-KY",
+        "revenue": 114.0,
+        "mom": 81.8,
+        "yoy": 50.81
+    },
+    {
+        "stock_id": "6969",
+        "stock_name": "成信實業*-創",
+        "revenue": 114.0,
+        "mom": 27.7,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6988",
+        "stock_name": "威力暘-創",
+        "revenue": 114.0,
+        "mom": 14.55,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "6994",
+        "stock_name": "富威電力",
+        "revenue": 114.0,
+        "mom": 63.9,
+        "yoy": 10.19
+    },
+    {
+        "stock_id": "7631",
+        "stock_name": "聚賢研發-創",
+        "revenue": 114.0,
+        "mom": 0.0,
+        "yoy": 17.61
+    },
+    {
+        "stock_id": "7705",
+        "stock_name": "三商餐飲",
+        "revenue": 114.0,
+        "mom": 31.75,
+        "yoy": 14.24
+    },
+    {
+        "stock_id": "7711",
+        "stock_name": "永擎",
+        "revenue": 114.0,
+        "mom": 380.0,
+        "yoy": 33.93
+    },
+    {
+        "stock_id": "7721",
+        "stock_name": "微程式",
+        "revenue": 114.0,
+        "mom": 76.2,
+        "yoy": 129.15
+    },
+    {
+        "stock_id": "7722",
+        "stock_name": "LINEPAY",
+        "revenue": 114.0,
+        "mom": 278.0,
+        "yoy": 39.43
+    },
+    {
+        "stock_id": "7730",
+        "stock_name": "暉盛-創",
+        "revenue": 114.0,
+        "mom": 186.0,
+        "yoy": 96.37
+    },
+    {
+        "stock_id": "7732",
+        "stock_name": "金興精密",
+        "revenue": 114.0,
+        "mom": 36.25,
+        "yoy": 20.95
+    },
+    {
+        "stock_id": "7736",
+        "stock_name": "虎山",
+        "revenue": 114.0,
+        "mom": 73.0,
+        "yoy": 15.97
+    },
+    {
+        "stock_id": "7740",
+        "stock_name": "熙特爾-創",
+        "revenue": 114.0,
+        "mom": 181.5,
+        "yoy": 25.42
+    },
+    {
+        "stock_id": "7749",
+        "stock_name": "意騰-KY",
+        "revenue": 114.0,
+        "mom": 484.0,
+        "yoy": 38.84
+    },
+    {
+        "stock_id": "7760",
+        "stock_name": "享溫馨",
+        "revenue": 114.0,
+        "mom": 32.0,
+        "yoy": 54.24
+    },
+    {
+        "stock_id": "7765",
+        "stock_name": "中華資安",
+        "revenue": 114.0,
+        "mom": 254.0,
+        "yoy": 22.9
+    },
+    {
+        "stock_id": "7768",
+        "stock_name": "頌勝科技",
+        "revenue": 114.0,
+        "mom": 415.5,
+        "yoy": 135.34
+    },
+    {
+        "stock_id": "7780",
+        "stock_name": "大研生醫*",
+        "revenue": 114.0,
+        "mom": 17.85,
+        "yoy": 42.5
+    },
+    {
+        "stock_id": "7786",
+        "stock_name": "東方風能",
+        "revenue": 114.0,
+        "mom": 121.5,
+        "yoy": 12.41
+    },
+    {
+        "stock_id": "7788",
+        "stock_name": "松川精密",
+        "revenue": 114.0,
+        "mom": 204.0,
+        "yoy": 53.97
+    },
+    {
+        "stock_id": "7791",
+        "stock_name": "皇家可口",
+        "revenue": 114.0,
+        "mom": 67.0,
+        "yoy": 14.63
+    },
+    {
+        "stock_id": "7795",
+        "stock_name": "長廣",
+        "revenue": 114.0,
+        "mom": 389.5,
+        "yoy": 139.61
+    },
+    {
+        "stock_id": "7799",
+        "stock_name": "禾榮科",
+        "revenue": 113.0,
+        "mom": 355.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "7803",
+        "stock_name": "雲象科技-創",
+        "revenue": 114.0,
+        "mom": 23.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "7818",
+        "stock_name": "溢泰實業",
+        "revenue": 114.0,
+        "mom": 65.3,
+        "yoy": 11.56
+    },
+    {
+        "stock_id": "7821",
+        "stock_name": "神數",
+        "revenue": 114.0,
+        "mom": 45.1,
+        "yoy": 15.08
+    },
+    {
+        "stock_id": "7823",
+        "stock_name": "奧義賽博-KY創",
+        "revenue": 113.0,
+        "mom": 97.8,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "7827",
+        "stock_name": "漢康-KY創",
+        "revenue": 114.0,
+        "mom": 161.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "8011",
+        "stock_name": "台通",
+        "revenue": 114.0,
+        "mom": 19.05,
+        "yoy": 22.41
+    },
+    {
+        "stock_id": "8016",
+        "stock_name": "矽創",
+        "revenue": 114.0,
+        "mom": 303.5,
+        "yoy": 19.06
+    },
+    {
+        "stock_id": "8021",
+        "stock_name": "尖點",
+        "revenue": 114.0,
+        "mom": 441.0,
+        "yoy": 126.36
+    },
+    {
+        "stock_id": "8028",
+        "stock_name": "昇陽半導體",
+        "revenue": 114.0,
+        "mom": 341.0,
+        "yoy": 75.44
+    },
+    {
+        "stock_id": "8033",
+        "stock_name": "雷虎",
+        "revenue": 114.0,
+        "mom": 133.0,
+        "yoy": 198.51
+    },
+    {
+        "stock_id": "8039",
+        "stock_name": "台虹",
+        "revenue": 114.0,
+        "mom": 140.5,
+        "yoy": 59.28
+    },
+    {
+        "stock_id": "8045",
+        "stock_name": "達運光電",
+        "revenue": 114.0,
+        "mom": 67.5,
+        "yoy": 96.43
+    },
+    {
+        "stock_id": "8046",
+        "stock_name": "南電",
+        "revenue": 114.0,
+        "mom": 878.0,
+        "yoy": 186.02
+    },
+    {
+        "stock_id": "8070",
+        "stock_name": "長華*",
+        "revenue": 114.0,
+        "mom": 65.3,
+        "yoy": 61.6
+    },
+    {
+        "stock_id": "8072",
+        "stock_name": "陞泰",
+        "revenue": 114.0,
+        "mom": 30.6,
+        "yoy": 30.0
+    },
+    {
+        "stock_id": "8081",
+        "stock_name": "致新",
+        "revenue": 114.0,
+        "mom": 280.0,
+        "yoy": 15.94
+    },
+    {
+        "stock_id": "8101",
+        "stock_name": "華冠",
+        "revenue": 114.0,
+        "mom": 16.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "8103",
+        "stock_name": "瀚荃",
+        "revenue": 114.0,
+        "mom": 101.5,
+        "yoy": 21.88
+    },
+    {
+        "stock_id": "8104",
+        "stock_name": "錸寶",
+        "revenue": 113.0,
+        "mom": 42.75,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "8105",
+        "stock_name": "凌巨",
+        "revenue": 113.0,
+        "mom": 20.05,
+        "yoy": 668.33
+    },
+    {
+        "stock_id": "8110",
+        "stock_name": "華東",
+        "revenue": 114.0,
+        "mom": 59.6,
+        "yoy": 21.83
+    },
+    {
+        "stock_id": "8112",
+        "stock_name": "至上",
+        "revenue": 114.0,
+        "mom": 95.6,
+        "yoy": 11.52
+    },
+    {
+        "stock_id": "8114",
+        "stock_name": "振樺電",
+        "revenue": 114.0,
+        "mom": 238.5,
+        "yoy": 15.9
+    },
+    {
+        "stock_id": "8131",
+        "stock_name": "福懋科",
+        "revenue": 114.0,
+        "mom": 73.2,
+        "yoy": 36.97
+    },
+    {
+        "stock_id": "8150",
+        "stock_name": "南茂",
+        "revenue": 114.0,
+        "mom": 99.1,
+        "yoy": 83.98
+    },
+    {
+        "stock_id": "8162",
+        "stock_name": "微矽電子-創",
+        "revenue": 114.0,
+        "mom": 75.8,
+        "yoy": 54.93
+    },
+    {
+        "stock_id": "8163",
+        "stock_name": "達方",
+        "revenue": 114.0,
+        "mom": 40.5,
+        "yoy": 79.41
+    },
+    {
+        "stock_id": "8201",
+        "stock_name": "無敵",
+        "revenue": 114.0,
+        "mom": 15.05,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "8213",
+        "stock_name": "志超",
+        "revenue": 114.0,
+        "mom": 37.7,
+        "yoy": 19.53
+    },
+    {
+        "stock_id": "8215",
+        "stock_name": "明基材",
+        "revenue": 114.0,
+        "mom": 30.5,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "8222",
+        "stock_name": "寶一",
+        "revenue": 114.0,
+        "mom": 37.25,
+        "yoy": 61.07
+    },
+    {
+        "stock_id": "8249",
+        "stock_name": "菱光",
+        "revenue": 114.0,
+        "mom": 54.8,
+        "yoy": 20.45
+    },
+    {
+        "stock_id": "8261",
+        "stock_name": "富鼎",
+        "revenue": 114.0,
+        "mom": 176.5,
+        "yoy": 30.22
+    },
+    {
+        "stock_id": "8271",
+        "stock_name": "宇瞻",
+        "revenue": 114.0,
+        "mom": 245.0,
+        "yoy": 11.94
+    },
+    {
+        "stock_id": "8341",
+        "stock_name": "日友",
+        "revenue": 114.0,
+        "mom": 78.6,
+        "yoy": 16.72
+    },
+    {
+        "stock_id": "8367",
+        "stock_name": "建新國際",
+        "revenue": 114.0,
+        "mom": 41.15,
+        "yoy": 11.69
+    },
+    {
+        "stock_id": "8374",
+        "stock_name": "羅昇",
+        "revenue": 114.0,
+        "mom": 99.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "8404",
+        "stock_name": "百和興業-KY",
+        "revenue": 114.0,
+        "mom": 17.8,
+        "yoy": 16.33
+    },
+    {
+        "stock_id": "8411",
+        "stock_name": "福貞-KY",
+        "revenue": 114.0,
+        "mom": 12.15,
+        "yoy": 121.5
+    },
+    {
+        "stock_id": "8422",
+        "stock_name": "可寧衛*",
+        "revenue": 114.0,
+        "mom": 28.25,
+        "yoy": 26.16
+    },
+    {
+        "stock_id": "8429",
+        "stock_name": "金麗-KY",
+        "revenue": 113.0,
+        "mom": 6.88,
+        "yoy": 62.55
+    },
+    {
+        "stock_id": "8438",
+        "stock_name": "昶昕",
+        "revenue": 114.0,
+        "mom": 86.8,
+        "yoy": 33.0
+    },
+    {
+        "stock_id": "8442",
+        "stock_name": "威宏-KY",
+        "revenue": 114.0,
+        "mom": 40.0,
+        "yoy": 22.35
+    },
+    {
+        "stock_id": "8443",
+        "stock_name": "阿瘦",
+        "revenue": 113.0,
+        "mom": 11.35,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "8454",
+        "stock_name": "富邦媒",
+        "revenue": 114.0,
+        "mom": 321.0,
+        "yoy": 30.63
+    },
+    {
+        "stock_id": "8462",
+        "stock_name": "柏文",
+        "revenue": 114.0,
+        "mom": 141.0,
+        "yoy": 15.19
+    },
+    {
+        "stock_id": "8463",
+        "stock_name": "潤泰材",
+        "revenue": 114.0,
+        "mom": 22.4,
+        "yoy": 10.57
+    },
+    {
+        "stock_id": "8464",
+        "stock_name": "億豐",
+        "revenue": 114.0,
+        "mom": 331.5,
+        "yoy": 15.01
+    },
+    {
+        "stock_id": "8466",
+        "stock_name": "美吉吉-KY",
+        "revenue": 114.0,
+        "mom": 16.45,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "8467",
+        "stock_name": "波力-KY",
+        "revenue": 114.0,
+        "mom": 129.5,
+        "yoy": 15.04
+    },
+    {
+        "stock_id": "8473",
+        "stock_name": "山林水",
+        "revenue": 114.0,
+        "mom": 54.6,
+        "yoy": 19.16
+    },
+    {
+        "stock_id": "8476",
+        "stock_name": "台境*",
+        "revenue": 114.0,
+        "mom": 15.65,
+        "yoy": 37.26
+    },
+    {
+        "stock_id": "8478",
+        "stock_name": "東哥遊艇",
+        "revenue": 114.0,
+        "mom": 159.0,
+        "yoy": 9.68
+    },
+    {
+        "stock_id": "8481",
+        "stock_name": "政伸",
+        "revenue": 114.0,
+        "mom": 41.15,
+        "yoy": 13.49
+    },
+    {
+        "stock_id": "8482",
+        "stock_name": "商億-KY",
+        "revenue": 114.0,
+        "mom": 49.9,
+        "yoy": 21.14
+    },
+    {
+        "stock_id": "8487",
+        "stock_name": "愛爾達-創",
+        "revenue": 114.0,
+        "mom": 79.4,
+        "yoy": 14.18
+    },
+    {
+        "stock_id": "8488",
+        "stock_name": "吉源-KY",
+        "revenue": 113.0,
+        "mom": 10.1,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "8499",
+        "stock_name": "鼎炫-KY",
+        "revenue": 114.0,
+        "mom": 297.0,
+        "yoy": 29.76
+    },
+    {
+        "stock_id": "8926",
+        "stock_name": "台汽電",
+        "revenue": 114.0,
+        "mom": 72.4,
+        "yoy": 17.75
+    },
+    {
+        "stock_id": "8940",
+        "stock_name": "新天地",
+        "revenue": 114.0,
+        "mom": 16.9,
+        "yoy": 26.83
+    },
+    {
+        "stock_id": "9802",
+        "stock_name": "鈺齊-KY",
+        "revenue": 114.0,
+        "mom": 80.4,
+        "yoy": 14.18
+    },
+    {
+        "stock_id": "9902",
+        "stock_name": "台火",
+        "revenue": 113.0,
+        "mom": 14.55,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "9904",
+        "stock_name": "寶成",
+        "revenue": 114.0,
+        "mom": 26.4,
+        "yoy": 7.27
+    },
+    {
+        "stock_id": "9905",
+        "stock_name": "大華",
+        "revenue": 114.0,
+        "mom": 20.6,
+        "yoy": 14.61
+    },
+    {
+        "stock_id": "9906",
+        "stock_name": "欣巴巴",
+        "revenue": 114.0,
+        "mom": 41.4,
+        "yoy": 15.56
+    },
+    {
+        "stock_id": "9907",
+        "stock_name": "統一實",
+        "revenue": 114.0,
+        "mom": 16.8,
+        "yoy": 15.14
+    },
+    {
+        "stock_id": "9908",
+        "stock_name": "大台北",
+        "revenue": 114.0,
+        "mom": 29.4,
+        "yoy": 16.61
+    },
+    {
+        "stock_id": "9910",
+        "stock_name": "豐泰",
+        "revenue": 114.0,
+        "mom": 80.5,
+        "yoy": 17.42
+    },
+    {
+        "stock_id": "9911",
+        "stock_name": "櫻花",
+        "revenue": 114.0,
+        "mom": 83.7,
+        "yoy": 13.16
+    },
+    {
+        "stock_id": "9912",
+        "stock_name": "偉聯",
+        "revenue": 113.0,
+        "mom": 12.55,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "9914",
+        "stock_name": "美利達",
+        "revenue": 114.0,
+        "mom": 68.6,
+        "yoy": 18.54
+    },
+    {
+        "stock_id": "9917",
+        "stock_name": "中保科",
+        "revenue": 114.0,
+        "mom": 117.0,
+        "yoy": 17.26
+    },
+    {
+        "stock_id": "9918",
+        "stock_name": "欣天然",
+        "revenue": 114.0,
+        "mom": 44.45,
+        "yoy": 26.3
+    },
+    {
+        "stock_id": "9919",
+        "stock_name": "康那香",
+        "revenue": 113.0,
+        "mom": 14.55,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "9921",
+        "stock_name": "巨大",
+        "revenue": 114.0,
+        "mom": 70.6,
+        "yoy": 176.5
+    },
+    {
+        "stock_id": "9924",
+        "stock_name": "福興",
+        "revenue": 114.0,
+        "mom": 43.3,
+        "yoy": 15.69
+    },
+    {
+        "stock_id": "9925",
+        "stock_name": "新保",
+        "revenue": 114.0,
+        "mom": 40.5,
+        "yoy": 16.8
+    },
+    {
+        "stock_id": "9926",
+        "stock_name": "新海",
+        "revenue": 114.0,
+        "mom": 49.35,
+        "yoy": 18.08
+    },
+    {
+        "stock_id": "9927",
+        "stock_name": "泰銘",
+        "revenue": 114.0,
+        "mom": 70.2,
+        "yoy": 14.33
+    },
+    {
+        "stock_id": "9928",
+        "stock_name": "中視",
+        "revenue": 113.0,
+        "mom": 18.0,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "9929",
+        "stock_name": "秋雨",
+        "revenue": 114.0,
+        "mom": 11.3,
+        "yoy": 41.85
+    },
+    {
+        "stock_id": "9930",
+        "stock_name": "中聯資源",
+        "revenue": 114.0,
+        "mom": 69.8,
+        "yoy": 14.76
+    },
+    {
+        "stock_id": "9931",
+        "stock_name": "欣高",
+        "revenue": 114.0,
+        "mom": 35.4,
+        "yoy": 14.87
+    },
+    {
+        "stock_id": "9933",
+        "stock_name": "中鼎",
+        "revenue": 114.0,
+        "mom": 42.15,
+        "yoy": 9.96
+    },
+    {
+        "stock_id": "9934",
+        "stock_name": "成霖",
+        "revenue": 114.0,
+        "mom": 11.25,
+        "yoy": 0.0
+    },
+    {
+        "stock_id": "9935",
+        "stock_name": "慶豐富",
+        "revenue": 114.0,
+        "mom": 19.45,
+        "yoy": 11.86
+    },
+    {
+        "stock_id": "9937",
+        "stock_name": "全國",
+        "revenue": 114.0,
+        "mom": 56.5,
+        "yoy": 22.69
+    },
+    {
+        "stock_id": "9938",
+        "stock_name": "百和",
+        "revenue": 114.0,
+        "mom": 45.75,
+        "yoy": 13.3
+    },
+    {
+        "stock_id": "9939",
+        "stock_name": "宏全",
+        "revenue": 114.0,
+        "mom": 125.5,
+        "yoy": 13.91
+    },
+    {
+        "stock_id": "9940",
+        "stock_name": "信義",
+        "revenue": 114.0,
+        "mom": 19.5,
+        "yoy": 52.7
+    },
+    {
+        "stock_id": "9941",
+        "stock_name": "裕融",
+        "revenue": 114.0,
+        "mom": 82.0,
+        "yoy": 12.01
+    },
+    {
+        "stock_id": "9942",
+        "stock_name": "茂順",
+        "revenue": 114.0,
+        "mom": 119.5,
+        "yoy": 14.56
+    },
+    {
+        "stock_id": "9943",
+        "stock_name": "好樂迪",
+        "revenue": 114.0,
+        "mom": 57.0,
+        "yoy": 15.83
+    },
+    {
+        "stock_id": "9944",
+        "stock_name": "新麗",
+        "revenue": 114.0,
+        "mom": 16.9,
+        "yoy": 338.0
+    },
+    {
+        "stock_id": "9945",
+        "stock_name": "潤泰新",
+        "revenue": 114.0,
+        "mom": 25.2,
+        "yoy": 7.08
+    },
+    {
+        "stock_id": "9946",
+        "stock_name": "三發地產",
+        "revenue": 114.0,
+        "mom": 16.95,
+        "yoy": 4.07
+    },
+    {
+        "stock_id": "9955",
+        "stock_name": "佳龍",
+        "revenue": 113.0,
+        "mom": 28.9,
+        "yoy": 40.7
+    },
+    {
+        "stock_id": "9958",
+        "stock_name": "世紀鋼",
+        "revenue": 114.0,
+        "mom": 117.5,
+        "yoy": 14.99
+    }
+]
